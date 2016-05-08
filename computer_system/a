@@ -1,0 +1,4 @@
+test_unsign.cpp: In function ‘int main()’:
+test_unsign.cpp:9:35: warning: integer overflow in expression [-Woverflow]
+     printf("%d %d\n", -2147483647-2, a);
+                                   ^
