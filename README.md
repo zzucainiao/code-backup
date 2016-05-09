@@ -1,6 +1,4 @@
 # hello-world
-a test repository
 
-i am wangbing
-
-waiting for you!!
+保存一下学习期间写的测试性代码
+以后需要某个特性了回来还可以找到
