@@ -1,0 +1,39 @@
+ 2014  vim vector.h
+ 2015  vim addvec.c
+ 2016  vim multvec.c
+ 2017  vim main.c
+ 2018  gcc -c addvec.c multvec.c 
+ 2019  g++ -c addvec.c multvec.c 
+ 2020  ls
+ 2021  ar rcs libvector.a addvec.o multvec.o
+ 2022  ls -al
+ 2023  g++ -O2 -c main.c 
+ 2024  ls -alrt
+ 2025  g++ -static -o p2 main.o ./libvector.a 
+ 2026  ./p2
+ 2027  gcc -shared -fPIC -o libvector.so addvec.c multvec.c
+ 2028  g++ -shared -fPIC -o libvector.so addvec.c multvec.c
+ 2029  ls -alrt
+ 2030  g++ -o p2 main.c ./libvector.so 
+ 2031  ./p2 
+ 2032  vim addvec.c 
+ 2033  g++ -shared -fPIC -o libvector.so addvec.c multvec.c
+ 2034  ./p2 
+ 2035  vim dll.c
+ 2036  g++ -rdynamic -O2 -o p3 dll.c -ldl
+ 2037  gcc -rdynamic -O2 -o p3 dll.c -ldl
+ 2038  vim dll.c
+ 2039  gcc -rdynamic -O2 -o p3 dll.c -ldl
+ 2040  ./p3 
+ 2041  ls -alrt
+ 2042  vim addvec.c 
+ 2043  g++ -shared -fPIC -o libvector.so addvec.c multvec.c
+ 2044  ./p3 
+ 2045  cat addvec.c 
+ 2046  vim dll.c 
+ 2047  ls
+ 2048  vim libvector.so
+ 2049  gcc -rdynamic -O2 -o p3 dll.c -ldl
+ 2050  ./p3
+
+最后dll.c报错说找不到addvec，然后我就打开libvector.so看了下，发现addvec被换了一个名字，然后在dll.c中用对应的名字就正确了 哈哈哈
