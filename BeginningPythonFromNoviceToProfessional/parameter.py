@@ -25,3 +25,14 @@ with_stats(**para)
 with_stats(name="wangbing", age=24)
 without_stats(para)
 
+#wangbing
+#()
+#wangbing
+#(1,)
+#wangbing
+#(1, 2, 3)
+#wangbing
+#{'y': 2, 'x': 1, 'z': 3}
+#wangbing is 24 years old
+#wangbing is 24 years old
+#wangbing is 24 years old

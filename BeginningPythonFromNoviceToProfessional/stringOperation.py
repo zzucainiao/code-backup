@@ -23,3 +23,12 @@ print(table[97:123], len(table))
 
 s = "abcdefgx y".translate(table, " ") #delete space
 print(s)
+#20
+#-1
+#28
+#['1', '2', '3']
+#1+2+3
+#wangbing
+#['1', '2', '3']
+#('xyzwefghijklmnopqrstuvwxyz', 256)
+#xyzwefgxy

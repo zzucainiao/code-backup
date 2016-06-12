@@ -52,3 +52,17 @@ for i, name in zip(range(0, 10000000000000), names):
 
 for i, name in enumerate(names):
     print(i, name)
+#a equal b
+#a is not b
+#b[name] equal c[name]
+#b[gf] equal c[gf]
+#b[name] is c[name]
+#b[gf] is c[gf]
+#teenage
+#1 2 3 4 5 6 7 8 9 
+#0 a
+#1 b
+#2 c
+#0 a
+#1 b
+#2 c

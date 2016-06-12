@@ -2,7 +2,7 @@
 def combine(parameter):
     global x
     x += 1
-    print parameter + globalvar + globals()["parameter"]
+    print(parameter + globalvar + globals()["parameter"])
 
 globalvar = "wangbing"
 parameter = "nimei"
@@ -20,3 +20,7 @@ m = mul(3)
 print(m(4))
 
 print(mul(4)(5))
+#hehewangbingnimei
+#11
+#12
+#20

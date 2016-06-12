@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="ie6"><![endif]--><!--[if IE 7]><html class="ie7"><![endif]--><!--[if IE 8]><html class="ie8"><![endif]--><!--[if IE 9]><html class="ie9"><![endif]--><!--[if !IE]><!--><html><!--<![endif]--><head>
+<meta charset="utf-8">
+<link rel="shortcut icon" href="//www.nuomi.com/static/common/img/favicon.ico">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="renderer" content="webkit">
+<script>var F = {};(function () {var b = {};F.context = function(p, r) {var q = arguments.length;if (q > 1) {b[p] = r} else {if (q == 1) {if (typeof p == "object") {for (var o in p) {if (p.hasOwnProperty(o)) {b[o] = p[o]}}} else {return b[p];}}}};})();</script>
+
+
+
+<script>!F.context('staticController') && F.context('staticController',{run: function (f) { f && f.call(this); }, /**/fail: function () { /**/ }});</script>
+<script src="//gss0.bdstatic.com/8r1VfDn-KggZnd_b8IqT0jB-xx1xbK/static/common/lib/staticLoader_f1971d5.js"></script>
+<script>F.context('staticController').init && F.context('staticController').init(!!'',!!'',!!'',null,'');</script>
+
+
+
+
+<title>【北京团购】北京团购网站，高品质团购网站-百度糯米</title>
+<meta name="Description" content="百度糯米北京团购-消费者满意的生活服务网，美食、ktv、电影、自助餐团购精选！更有给力商品折扣，百度糯米-便宜实惠，品质保证，服务专业！百度糯米，我的生活！" />
+
+
+
+
+<script>
+        // 将alogObjectConfig从webspeedjs中提前是为了兼容https协议
+        /* 配置需要统计的模块 */
+        window.alogObjectConfig = {  // 配置各种统计模块，不需要的模块不配置即可
+            sample: '1',
+            product: '273',     // 必须, DP平台产品线id
+            page: "273_265",        // 必须, DP平台页面id
+
+            // 性能
+            speed: {
+                sample: '0.8'   // 抽样率, 0~1
+                //special_pages: [{id:34,sample:1}] // 特殊页面，和老的性能配置一致
+                //custom_metrics : ['c_item1','p_item3'],//自定义的性能指标，自动上报，只有这些指标都统计完毕之后数据才会发送
+            },
+
+            // 访问、点击
+            //monkey: {
+               // sample: '0.3'      // 抽样率, 0~1  建议使采样的pv控制在50万以内
+                //hid: ''       // 兼容老版本的monkey，monkey实验的ID
+                //pageflag: ''  // 个别特殊产品线使用的老monkey的pageflag
+           // },
+
+            // js异常
+            exception: {     // 注意：需要异常统计时，必须引入上面head中的相应代码
+                sample: '0.8'   // 抽样率, 0~1  建议使采样的pv控制在50万以内
+            },
+
+            // 新特性
+            feature: {
+                sample: '0.8'   // 抽样率, 0~1  建议使采样的pv控制在50万以内
+            },
+
+            // csp监控【跨站资源、XSS漏洞】，csp的配置说明见下文的“高级功能”
+            csp: {
+                sample: '0.8',   // 抽样率, 0~1  建议使采样的pv控制在100万以内
+
+                // 默认的跨站策略, 产品线可以根据自己的实际情况进行修改
+                'default-src': [
+                    {match: '*bae.baidu.com', target: 'Accept,Warn'},
+                    {match: '*.baidu.com,*.bdstatic.com,*.bdimg.com,localhost,*.hao123.com,*.hao123img.com', target: 'Accept'},
+                    {match: /^(127|172|192|10)(\.\d+){3}$/, target: 'Accept'},
+                    {match: '*', target: 'Accept,Warn'}
+                ],
+
+                // 元素内联事件配置，跟踪线上的 DOM-XSS
+                'inline': {
+                    'len-limit': [  // 长度限制。超过match字符数可做相应处理
+                        {match: 400, target: 'Accept,Warn'}
+                    ],
+                    'key-limit': [  // 关键字限制。匹配match正则可做相应处理
+                        {match: /fromCharCode|getScript|alert\(\/|alert\(\d+/, target: 'Accept,Warn'}
+                    ],
+                    'unsafe-eval': 'Accept,Warn'    // 在内联事件里调用eval函数，可做相应处理
+                }
+            }
+        };
+	    // pc和mobile端会稍有不同，必须严格按照该文档来部署
+        void function(a,b,c,d,e,f,g){if(a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,"https:"===a.location.protocol){if(d="https://gss2.bdstatic.com/70cFsjip0QIZ8tyhnq"+d,!a.alogObjectConfig||!a.alogObjectConfig.sample)return}else d="http://img.baidu.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d,g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+        void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+	</script>
+
+
+<script>var _hmt = _hmt || [];F.context('tongji_hm',{init: (function() {return function (rtTag) {rtTag && _hmt.push(['_trackRTEvent', rtTag]);var hm = document.createElement('script');hm.src = '//hm.baidu.com/hm.js?a028c07bf31ffce4b2d21dd85b0b8907';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(hm, s);}})()});F.context('tongji_hm').init({"data":{"ecom_page":{"page_type":"index"}}});</script>
+
+<script>
+	    void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","//gss2.bdstatic.com/70cFsjip0QIZ8tyhnq/hunter/alog.min.js","alog");
+		</script>
+
+
+<script>alog('speed.set', 'ht',new Date);</script>
+
+<link rel="stylesheet" type="text/css" href="//gss0.bdstatic.com/8r1VfDn9KggZnd_b8IqT0jB-xx1xbK/static/common/css/global/global_20a287f.css"/><link rel="stylesheet" type="text/css" href="//gss0.bdstatic.com/8r1VfDn-KggZnd_b8IqT0jB-xx1xbK/static/common/pkg/common_059946d.css"/><link rel="stylesheet" type="text/css" href="//gss0.bdstatic.com/8r1VfDn-KggZnd_b8IqT0jB-xx1xbK/static/common/nis_index/header_09b29cb.css"/><link rel="stylesheet" type="text/css" href="//gss0.bdstatic.com/8r1VfDn9KggZnd_b8IqT0jB-xx1xbK/static/list/pkg/list_34495d6.css"/><link rel="stylesheet" type="text/css" href="//gss0.bdstatic.com/8r1VfDn7KggZnd_b8IqT0jB-xx1xbK/static/list/nis_index/index_69da9fb.css"/></head>
+
+
+<body mon="page=index_new" class="gl-big-screen">
+
+
+
+<script>
+    F.context({
+        'channel': '002540||', // 
+        'channel_content': '', // 
+        'da_page': 'index_new', // 
+        'nuomi_base': '//www.nuomi.com',
+        'logout_nuomi': '/pclogin/main/logout',
+        'baid_uss_url': '//nuomipassport.baidu.com/getbduss',
+        'logout_baidu': 'https://passport.baidu.com/?logout',
+        'xll': '1', // 
+        'label_sort_js': '', // 
+        'loginTest': '1', // 
+        'passport_base': '//passport.baidu.com',
+        'nuomi_old_base': '//login.nuomi.com',
+        'login_idc':'' || 'sh',
+        'passport_reg': '//passport.baidu.com/v2/?reg&tpl=nuomi&color=pink',
+        'login_id': '',
+        'sample_hit': '0' // 
+    });
+</script>
+
+
+<!--[if IE 6]>
+<div id="kie-bar" class="kie-bar">
+目前您正在使用ie6浏览器，该浏览器已经过时了，为了更加安全和方便地进行团购，百度糯米推荐您使用以下浏览器：<a href="http://www.microsoft.com/china/windows/IE/upgrade/index.aspx" class="kie-setup-IE8"  target="_blank" title="免费升级至IE8浏览器">免费升级</a>或下载使用<a href="http://browser.baidu.com/" class="kie-setup-baidu" target="_blank" title="百度浏览器">百度浏览器</a>，体验极速浏览体验！</div>
+<style>
+        .kie-bar {
+            height: 24px;
+            line-height: 1.8;
+            font-weight:normal;
+            text-align: center;
+            border-bottom:1px solid #fce4b5;
+            background-color:#FFFF9B;
+            color:#e27839;
+            position: relative;
+            font-size: 14px;
+            text-shadow:  0 0  1px #efefef;
+            padding: 5px 0;
+        }
+        .kie-bar a {
+            color:#08c;
+            text-decoration: none;
+        }
+    </style>
+<![endif]-->
+
+<ul id="j-go-top" class="nav n-go-top" mon="area=right_anchor"><li><a href="#" mon="element=gotop&position=0" class="item with-top-border go-top-2"><span class="gotop-ico inner-ico"><i class="iconfont">&#xe62d;</i></span><span class="inner-text">回到顶部</span></a></li><li><div class="qrcode-side item"><i class="iconfont">&#xe63c;</i><div class="qrcode-img"><a href="http://d.nuomi.com/?1009764s" mon="element=erweima&position=1" target="_blank"><p class="img">二维码</p></a></div></div></li><li><a target="_blank" class="item" href="http://uxsurvey.baidu.com/index.php?sid=58946&newtest=Y&lang=zh-Hans"><span class="question-ico inner-ico"><i class="iconfont">&#xe62a;</i></span><span class="inner-text">问卷调查</span></a></li></ul>
+
+
+
+
+<script type="text/javascript">
+	F.context("nuomi_base", "//www.nuomi.com");
+</script>
+<div class="header-bar static-hook-real static-hook-id-1" mon="area=navigation" id="header-bar"><div class="header-inner clearfix flexible "><ul class="left-city first-level"><li class="with-padding">北京<span class="sep-lines"></span></li><li class="city j-bar-dropdown"><a href="//www.nuomi.com/pcindex/main/changecity" mon="element=change_city">切换城市<span class="arrow-down-logo"></span></a><div class="city-drop-down"><h3>热门城市</h3><ul><li ><a href="//bj.nuomi.com">北京</a></li><li ><a href="//sh.nuomi.com">上海</a></li><li ><a href="//gz.nuomi.com">广州</a></li><li  class="no-right-margin" ><a href="//sz.nuomi.com">深圳</a></li><li ><a href="//tj.nuomi.com">天津</a></li><li ><a href="//hz.nuomi.com">杭州</a></li><li ><a href="//xa.nuomi.com">西安</a></li><li  class="no-right-margin" ><a href="//cd.nuomi.com">成都</a></li><li ><a href="//zz.nuomi.com">郑州</a></li><li ><a href="//xm.nuomi.com">厦门</a></li><li ><a href="//qd.nuomi.com">青岛</a></li><li  class="no-right-margin" ><a href="//ty.nuomi.com">太原</a></li><li ><a href="//cq.nuomi.com">重庆</a></li><li ><a href="//wh.nuomi.com">武汉</a></li><li ><a href="//nj.nuomi.com">南京</a></li><li  class="no-right-margin" ><a href="//sy.nuomi.com">沈阳</a></li><li ><a href="//jn.nuomi.com">济南</a></li><li ><a href="//hrb.nuomi.com">哈尔滨</a></li></ul><a href="//www.nuomi.com/pcindex/main/changecity" class="link morelink">更多城市 &gt;</a></div></li></ul><div class="uc-order-status" id="j-ucOrderStatus"><ul><li>有即将到期的糯米券<a href="//www.nuomi.com/uc/order/order?status=2" id="j-ucStatusLink-b">查看</a></li><li><span></span>笔订单未评价<a href="//www.nuomi.com/uc/comment/not" id="j-ucStatusLink-c">去评价</a></li><li><span></span>笔订单未付款<a href="//www.nuomi.com/uc/order/order?status=3" id="j-ucStatusLink-d">去付款</a></li><li><span></span>条新的商家回复<a href="//www.nuomi.com/uc/comment/reply" id="j-ucStatusLink-e">查看</a></li></ul><a href="javascript:;" title="关闭消息框" class="close-button" id="j-ucStatusLink-a"></a></div><ul class="right-util first-level" id="j-ucLoginList"><li class="welcome-text"><span class="welcome-tag" id="j-welcomeTag"></span></li><li class="login"><a href="//www.nuomi.com/pclogin/main/loginpage" id="j-barLoginBtn" mon="element=login">登录</a><span class="sep-lines"></span></li><li class="reg"><a href="//passport.baidu.com/v2/?reg&tpl=nuomi&color=pink" id="j-barRegBtn" mon="element=register">注册</a><span class="sep-lines"></span></li><li class="logout"><a id="j-logout" href="https://passport.baidu.com/?logout"  mon="element=logout">退出</a><span class="sep-lines"></span></li><li class="qr-code j-bar-dropdown"><a href="http://d.nuomi.com/?1009764s" target="_blank">手机糯米<span class="arrow-down-logo"></span></a><span class="sep-lines"></span><p class="header-dropmenu"><a class="img" href="http://d.nuomi.com/?1009764s" target="_blank">二维码</a></p></li><li><a href="//www.nuomi.com/uc/order/order?status=all&_=1465608050" mon="element=my_order">我的订单</a><span class="sep-lines"></span></li><li class="j-bar-dropdown"><a href="//www.nuomi.com/uc/order/order?status=all" mon="element=my_nuomi">我的糯米<span class="arrow-down-logo"></span></a><span class="sep-lines"></span><div class="uc-list header-dropmenu"><a href="//www.nuomi.com/uc/order/order?status=all&_=1465608050" class="link">我的订单</a><a href="//www.nuomi.com/uc/order/morders?orderStatus=all" class="link">选座订单</a><a href="//www.nuomi.com/uc/collection/online" class="link">我的收藏</a><a href="//www.nuomi.com/uc/comment/not" class="link">我的评价</a><a href="//baifubao.baidu.com/jump?uri=%2Fuser%2F0%2Fmy_bfb%2F0&domain=https%3A%2F%2Fwww.baifubao.com" class="link" target="_blank" style="display:none;">帐户余额</a><a href="//www.nuomi.com/uc/hongbao/list?status=1&type=2" class="link">我的余额</a><a href="//www.nuomi.com/uc/giftcard/find?status=1" class="link">我的抵用券</a><a href="//www.nuomi.com/uc/user/userinfo" class="link">帐户设置</a><a href="http://i.baidu.com/?from=nuomi" class="link" target="_blank">我的百度</a></div></li><li id ="j-visitedArea"><a href="#" mon="element=recent_view"><span class="j-visitedArea-title">最近浏览</span><span class="arrow-down-logo"></span></a><span class="sep-lines"></span><div class="header-dropmenu items right-side" id="j-visitedContainer"><div class="loading">数据载入中...</div></div></li><li class="j-bar-dropdown"><a href="#"><span>我是商家</span><span class="arrow-down-logo"></span></a><span class="sep-lines"></span><div class="merchant-list header-dropmenu"><a href="http://y.nuomi.com" class="link" target="_blank">商户中心</a><a href="http://cooperation.nuomi.com/clue/index" class="link" target="_blank">我想合作</a></div></li><li><a href="//www.nuomi.com/help" mon="element=help_center">帮助中心</a><span class="sep-lines"></span></li><li class="j-bar-dropdown"><a href="#" mon="element=notice"><span class="j-visitedArea-title">关注</span><span class="arrow-down-logo"></span></a><span class="sep-lines"></span><div class="notice-drop"><div class="new-erweima"></div><h4>百度糯米:<span class="hot">nuomivip</span></h4></div></li><li class="no-right-border"><a href="#" mon="element=collection" id="addFav">收藏</a></li></ul></div></div>
+<script type="text/javascript">
+
+		F.context("page_name", "index_new"); // 
+		F.context("coupon_url", "//www.nuomi.com/uc/giftcard/find?status=1"); // 
+	</script>
+<div class="search-bar clearfix flexible static-hook-real static-hook-id-2" mon="area=searchTop"><div class="logo-area"><a href="//www.nuomi.com" class="logo" mon="element=logo" title="百度糯米"><i class="iconfont logo-main">&#xe651;</i><div class="logo-ext"><i class="iconfont logo-ext-my">&#xe654;</i><i class="iconfont logo-ext-dot">&#xe657;</i><i class="iconfont logo-ext-life">&#xe653;</i><i class="iconfont logo-ext-address">&#xe655;</i></div></a></div><div class="search-area clearfix"><div data-ui-id="main-searcher" class="form-wrap clearfix"><form method="get" action="//www.nuomi.com/search" id="j-searchForm" ><input type="text" id="j-searchInput" class="searchinput" name="k" value="" data-placeholder=""placeholder="搜索商家或地点" autocomplete="off" mon="element=search_input"/><div class="searchbtn-wrap"><input type="submit" class="searchbtn" id="j-searchBtn" value="" mon="element=search_button"/><i class="iconfont">&#xe639;</i></div><input type="hidden" id="j-input-hidden" name="rid" value="9869ad0ec3eb0def3d5f32e9d1a0b67f"></form></div><ul class="reco-list"><li><a href="//bj.nuomi.com/search?k=%E5%A5%BD%E4%BC%A6%E5%93%A5&rid=5fcda8e4f44a353984b7d439ee7160f9" mon="element=hot_query&position=0">好伦哥</a></li><li><a href="//bj.nuomi.com/search?k=%E5%BF%85%E8%83%9C%E5%AE%A2&rid=5fcda8e4f44a353984b7d439ee7160f9" mon="element=hot_query&position=1">必胜客</a></li><li><a href="//bj.nuomi.com/search?k=%E8%81%9A%E4%BC%98%E6%83%A0&rid=5fcda8e4f44a353984b7d439ee7160f9" mon="element=hot_query&position=2">聚优惠</a></li></ul></div><div class="utils clearfix"><a href="//www.nuomi.com/pcindex/about/promise" mon="element=just_retire" target="_blank"><div class="util-item refund"><i class="iconfont refund">&#xe62f;</i><div class="util-tip">未消费，随便退！</div></div><div class="util-item mid"><i class="iconfont pei">&#xe62e;</i><div class="util-tip">消费不满意先行赔付！</div></div><div class="util-item last"><i class="iconfont money">&#xe62c;</i><div class="util-tip">过期自动退！</div></div></a></div></div><script type="text/template" id="autocomplete-template">
+    <!--for:${data} as ${suggestion}, ${index}-->
+    <div data-index="${index}" class="j-suggestion-item n-textbox-autocomplete-item" mon="area=sug&element=${suggestion.relword}">
+        <span class="word">${suggestion.relword}</span>
+        <!--if:${suggestion.seg.length}--><span class="arrow"><i class="iconfont">&#xe61d;</i></span><!--/if-->
+        <span class="sug-count">约<em class="count">${suggestion.count}</em>单在线</span>
+    </div>
+    <!--/for-->
+
+    <!--for:${data} as ${item},${index}-->
+    <!--if:${item.seg.length}-->
+        <div id="autocomplate-list-${index}" class="autocomplete-panel" mon="area=sugExt">
+            <div class="panel-inner">
+                <div class="panel-bd">
+                    <h4 class="title">${item.relword}</h4>
+                    <ul class="list" data-index="${index}">
+                        <!--for: ${item.seg} as ${segItem},${index}-->
+                        <!--var: keyword= ${item.relword} + ${segItem.st}-->
+                        <li class="item">
+                            <div class="inner <!--if:${index}%2==0-->even<!--/if-->"><a href="/search?k=${keyword|encode}&rid=${item.rid}" mon="element=${keyword}&rid=${item.rid}"> ${segItem.st}</a></div>
+                        </li>
+                        <!--/for-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--/if-->
+    <!--/for-->
+</script><div class="nav-bar-header nav-area-index static-hook-real static-hook-id-3" ><div class="nav-inner flexible clearfix"><ul class="nav-list clearfix" mon="area=nav&element_type=nav" id="j-catg"><li class="nav-item cate-row all-cate deep"><span class="item ">全部分类</span><div class="left-menu clearfix" id="j-catg-list"><div class="level-item" catg-id="326"><div data-index="0" class="first-level j-catg-row " mon="area=catg_326"><dl><dt class="title"><a href="//bj.nuomi.com/326" target="_top" mon="element=美食">美食</a></dt><dd><a href="http://t10.nuomi.com/pc/t10/index" target="_top" class="" mon="element=精选品牌">精选品牌</a></dd><dd><a href="//bj.nuomi.com/380" target="_top" class="" mon="element=小吃快餐">小吃快餐</a></dd><dd><a href="//bj.nuomi.com/392" target="_top" class="" mon="element=自助餐">自助餐</a></dd></dl></div><div class="second-level with-min" mon="area=catg_hover_326"><div class="section clearfix"><div class="section-item clearfix  no-top-border "><h3>热门分类</h3><ul><li><a href="http://t10.nuomi.com/pc/t10/index" target="_top" class="hot" mon="element=精选品牌">精选品牌</a></li><li><a href="//bj.nuomi.com/327" target="_top" class="" mon="element=其他美食">其他美食</a></li><li><a href="//bj.nuomi.com/364" target="_top" class="" mon="element=火锅">火锅</a></li><li><a href="//bj.nuomi.com/380" target="_top" class="" mon="element=小吃快餐">小吃快餐</a></li><li><a href="//bj.nuomi.com/392" target="_top" class="" mon="element=自助餐">自助餐</a></li><li><a href="//bj.nuomi.com/439" target="_top" class="" mon="element=海鲜">海鲜</a></li><li><a href="//bj.nuomi.com/460" target="_top" class="" mon="element=烧烤/烤肉">烧烤/烤肉</a></li><li><a href="//bj.nuomi.com/690" target="_top" class="" mon="element=干锅/香锅">干锅/香锅</a></li><li><a href="//bj.nuomi.com/691" target="_top" class="" mon="element=聚会宴请">聚会宴请</a></li><li><a href="//bj.nuomi.com/879" target="_top" class="" mon="element=辣味美食">辣味美食</a></li><li><a href="//bj.nuomi.com/880" target="_top" class="" mon="element=甜点饮品">甜点饮品</a></li><li><a href="//bj.nuomi.com/881" target="_top" class="" mon="element=蛋糕">蛋糕</a></li><li><a href="//bj.nuomi.com/954" target="_top" class="" mon="element=咖啡厅/酒吧/茶室">咖啡厅/酒吧/茶室</a></li><li><a href="//bj.nuomi.com/1000002" target="_top" class="" mon="element=今日新单">今日新单</a></li></ul></div><div class="section-item clearfix "><h3>中国菜</h3><ul><li><a href="//bj.nuomi.com/388" target="_top" class="" mon="element=粤菜">粤菜</a></li><li><a href="//bj.nuomi.com/393" target="_top" class="" mon="element=川菜">川菜</a></li><li><a href="//bj.nuomi.com/424" target="_top" class="" mon="element=江浙菜">江浙菜</a></li><li><a href="//bj.nuomi.com/450" target="_top" class="" mon="element=北京菜">北京菜</a></li><li><a href="//bj.nuomi.com/451" target="_top" class="" mon="element=新疆/清真菜">新疆/清真菜</a></li><li><a href="//bj.nuomi.com/454" target="_top" class="" mon="element=湖北菜">湖北菜</a></li><li><a href="//bj.nuomi.com/488" target="_top" class="" mon="element=湘菜">湘菜</a></li><li><a href="//bj.nuomi.com/504" target="_top" class="" mon="element=东北菜">东北菜</a></li><li><a href="//bj.nuomi.com/509" target="_top" class="" mon="element=云南菜">云南菜</a></li><li><a href="//bj.nuomi.com/652" target="_top" class="" mon="element=鲁菜">鲁菜</a></li><li><a href="//bj.nuomi.com/653" target="_top" class="" mon="element=西北菜">西北菜</a></li><li><a href="//bj.nuomi.com/654" target="_top" class="" mon="element=贵州菜">贵州菜</a></li><li><a href="//bj.nuomi.com/655" target="_top" class="" mon="element=素食">素食</a></li><li><a href="//bj.nuomi.com/692" target="_top" class="" mon="element=创意菜/私房菜">创意菜/私房菜</a></li><li><a href="//bj.nuomi.com/693" target="_top" class="" mon="element=江西菜">江西菜</a></li><li><a href="//bj.nuomi.com/694" target="_top" class="" mon="element=内蒙菜">内蒙菜</a></li><li><a href="//bj.nuomi.com/695" target="_top" class="" mon="element=客家菜">客家菜</a></li><li><a href="//bj.nuomi.com/696" target="_top" class="" mon="element=台湾菜">台湾菜</a></li><li><a href="//bj.nuomi.com/697" target="_top" class="" mon="element=天津菜">天津菜</a></li><li><a href="//bj.nuomi.com/874" target="_top" class="" mon="element=徽菜">徽菜</a></li><li><a href="//bj.nuomi.com/878" target="_top" class="" mon="element=烤鱼">烤鱼</a></li><li><a href="//bj.nuomi.com/883" target="_top" class="" mon="element=烤鸭">烤鸭</a></li><li><a href="//bj.nuomi.com/884" target="_top" class="" mon="element=麻辣烫">麻辣烫</a></li><li><a href="//bj.nuomi.com/885" target="_top" class="" mon="element=山西菜">山西菜</a></li><li><a href="//bj.nuomi.com/886" target="_top" class="" mon="element=海南菜">海南菜</a></li><li><a href="//bj.nuomi.com/887" target="_top" class="" mon="element=闽菜">闽菜</a></li><li><a href="//bj.nuomi.com/888" target="_top" class="" mon="element=河南菜">河南菜</a></li><li><a href="//bj.nuomi.com/889" target="_top" class="" mon="element=河北菜">河北菜</a></li><li><a href="//bj.nuomi.com/890" target="_top" class="" mon="element=其他中餐">其他中餐</a></li><li><a href="//bj.nuomi.com/962" target="_top" class="" mon="element=全部中餐">全部中餐</a></li></ul></div><div class="section-item clearfix "><h3>外国菜</h3><ul><li><a href="//bj.nuomi.com/389" target="_top" class="" mon="element=日本料理">日本料理</a></li><li><a href="//bj.nuomi.com/390" target="_top" class="" mon="element=东南亚菜">东南亚菜</a></li><li><a href="//bj.nuomi.com/391" target="_top" class="" mon="element=西餐">西餐</a></li><li><a href="//bj.nuomi.com/501" target="_top" class="" mon="element=韩国料理">韩国料理</a></li><li><a href="//bj.nuomi.com/876" target="_top" class="" mon="element=中东菜">中东菜</a></li><li><a href="//bj.nuomi.com/877" target="_top" class="" mon="element=披萨">披萨</a></li><li><a href="//bj.nuomi.com/882" target="_top" class="" mon="element=其他异国餐饮">其他异国餐饮</a></li></ul></div></div></div></div><div class="level-item" catg-id="345"><div data-index="1" class="first-level j-catg-row " mon="area=catg_345"><dl><dt class="title"><a href="//bj.nuomi.com/movie" target="_top" mon="element=电影">电影</a></dt><dd><a href="//bj.nuomi.com/xuanzuo/" target="_top" class="" mon="element=在线订座">在线订座</a></dd><dd><a href="//bj.nuomi.com/film/" target="_top" class="" mon="element=电影票团购">电影票团购</a></dd></dl></div><div class="second-level with-min" mon="area=catg_hover_345"><div class="section clearfix"><div class="section-item clearfix no-top-border"><h3>热门影片</h3><ul><li><a href="//bj.nuomi.com/film/9745" target="_top" class="" mon="element=魔兽">魔兽</a></li><li><a href="//bj.nuomi.com/film/9717" target="_top" class="" mon="element=X战警：天启">X战警：天启</a></li><li><a href="//bj.nuomi.com/film/9963" target="_top" class="" mon="element=爱丽丝梦游仙境2：镜中奇遇记">爱丽丝梦游仙境2：镜中奇遇记</a></li><li><a href="//bj.nuomi.com/film/9962" target="_top" class="" mon="element=愤怒的小鸟">愤怒的小鸟</a></li><li><a href="//bj.nuomi.com/film/10209" target="_top" class="" mon="element=泰迪熊之玩具大战">泰迪熊之玩具大战</a></li><li><a href="//bj.nuomi.com/film/9725" target="_top" class="" mon="element=惊天魔盗团2">惊天魔盗团2</a></li><li><a href="//bj.nuomi.com/film/10207" target="_top" class="" mon="element=我们毕业啦">我们毕业啦</a></li><li><a href="//bj.nuomi.com/film/10044" target="_top" class="" mon="element=死亡游戏">死亡游戏</a></li><li><a href="//bj.nuomi.com/film/9927" target="_top" class="" mon="element=北京遇上西雅图之不二情书">北京遇上西雅图之不二情书</a></li><li><a href="//bj.nuomi.com/film/10061" target="_top" class="" mon="element=分歧者3：忠诚世界">分歧者3：忠诚世界</a></li><li><a href="//bj.nuomi.com/film/9958" target="_top" class="" mon="element=百鸟朝凤">百鸟朝凤</a></li><li><a href="//bj.nuomi.com/film/9941" target="_top" class="" mon="element=记忆碎片">记忆碎片</a></li><li><a href="//bj.nuomi.com/film/10249" target="_top" class="" mon="element=斗龙战士之星印罗盘">斗龙战士之星印罗盘</a></li><li><a href="//bj.nuomi.com/film/10041" target="_top" class="" mon="element=水果宝贝之水果总动员">水果宝贝之水果总动员</a></li><li><a href="//bj.nuomi.com/film/9712" target="_top" class="" mon="element=妖医">妖医</a></li><li><a href="//bj.nuomi.com/film/10237" target="_top" class="" mon="element=我叫MT之山口山战记">我叫MT之山口山战记</a></li><li><a href="//bj.nuomi.com/film/10040" target="_top" class="" mon="element=糖果世界大冒险">糖果世界大冒险</a></li><li><a href="//bj.nuomi.com/film/10032" target="_top" class="" mon="element=夜孔雀">夜孔雀</a></li><li><a href="//bj.nuomi.com/film/9961" target="_top" class="" mon="element=超脑48小时">超脑48小时</a></li><li><a href="//bj.nuomi.com/film/9493" target="_top" class="" mon="element=煎饼侠">煎饼侠</a></li><li><a href="//bj.nuomi.com/film/9583" target="_top" class="" mon="element=港囧">港囧</a></li><li><a href="//bj.nuomi.com/film/9600" target="_top" class="" mon="element=我是证人">我是证人</a></li><li><a href="//bj.nuomi.com/film/4535" target="_top" class="" mon="element=催眠大师">催眠大师</a></li><li><a href="//bj.nuomi.com/film/8805" target="_top" class="" mon="element=匆匆那年">匆匆那年</a></li><li><a href="//bj.nuomi.com/film/7090" target="_top" class="" mon="element=同桌的你">同桌的你</a></li><li><a href="//bj.nuomi.com/film/9947" target="_top" class="" mon="element=白毛女">白毛女</a></li><li><a href="//bj.nuomi.com/film/9441" target="_top" class="" mon="element=左耳">左耳</a></li><li><a href="//bj.nuomi.com/film/10179" target="_top" class="" mon="element=幻体：续命游戏">幻体：续命游戏</a></li><li><a href="//bj.nuomi.com/film/9363" target="_top" class="" mon="element=冲上云霄">冲上云霄</a></li><li><a href="//bj.nuomi.com/film/10238" target="_top" class="" mon="element=自我救赎">自我救赎</a></li><li><a href="//bj.nuomi.com/film/3328" target="_top" class="" mon="element=厨子戏子痞子">厨子戏子痞子</a></li><li><a href="//bj.nuomi.com/film/9530" target="_top" class="" mon="element=美人鱼之海盗来袭">美人鱼之海盗来袭</a></li><li><a href="//bj.nuomi.com/film/9856" target="_top" class="" mon="element=被偷走的那五年">被偷走的那五年</a></li><li><a href="//bj.nuomi.com/film/9851" target="_top" class="" mon="element=大唐玄奘">大唐玄奘</a></li><li><a href="//bj.nuomi.com/film/8909" target="_top" class="" mon="element=十万个冷笑话">十万个冷笑话</a></li><li><a href="//bj.nuomi.com/film/8114" target="_top" class="" mon="element=警察故事2013">警察故事2013</a></li><li><a href="//bj.nuomi.com/film/14" target="_top" class="" mon="element=爸爸去哪儿">爸爸去哪儿</a></li><li><a href="//bj.nuomi.com/film/9868" target="_top" class="" mon="element=HOLD住爱">HOLD住爱</a></li><li><a href="//bj.nuomi.com/film/8781" target="_top" class="" mon="element=光棍终结者">光棍终结者</a></li><li><a href="//bj.nuomi.com/film/8646" target="_top" class="" mon="element=深夜前的五分钟">深夜前的五分钟</a></li><li><a href="//bj.nuomi.com/film/97" target="_top" class="" mon="element=新天生一对">新天生一对</a></li></ul></div><div class="section-item clearfix"><h3>热门院线</h3><ul><li><a href="//bj.nuomi.com/cinema/72e57fd7ac475db6f9dc85a6" target="_top" class="" mon="element=北京阳光影城">北京阳光影城</a></li><li><a href="//bj.nuomi.com/cinema/fa01e93705e27f53764ff1e4" target="_top" class="" mon="element=北京K酷国际影城">北京K酷国际影城</a></li><li><a href="//bj.nuomi.com/cinema/4ea3f2f102a7ddaaaecb6644" target="_top" class="" mon="element=海淀工人文化宫">海淀工人文化宫</a></li><li><a href="//bj.nuomi.com/cinema/81d6a509b8933c596e20b953" target="_top" class="" mon="element=朝阳剧场">朝阳剧场</a></li></ul></div></div></div></div><div class="level-item" catg-id="320"><div data-index="2" class="first-level j-catg-row " mon="area=catg_320"><dl><dt class="title"><a href="//bj.nuomi.com/320" target="_top" mon="element=休闲娱乐">休闲娱乐</a></dt><dd><a href="//bj.nuomi.com/341" target="_top" class="" mon="element=KTV">KTV</a></dd><dd><a href="//bj.nuomi.com/338" target="_top" class="" mon="element=温泉洗浴">温泉洗浴</a></dd><dd><a href="//bj.nuomi.com/347" target="_top" class="" mon="element=足疗按摩">足疗按摩</a></dd></dl></div><div class="second-level with-min" mon="area=catg_hover_320"><div class="section clearfix"><div class="section-item clearfix"><ul><li><a href="//bj.nuomi.com/338" target="_top" class="" mon="element=温泉洗浴">温泉洗浴</a></li><li><a href="//bj.nuomi.com/341" target="_top" class="" mon="element=KTV">KTV</a></li><li><a href="//bj.nuomi.com/347" target="_top" class="" mon="element=足疗按摩">足疗按摩</a></li><li><a href="//bj.nuomi.com/349" target="_top" class="" mon="element=文化艺术">文化艺术</a></li><li><a href="//bj.nuomi.com/528" target="_top" class="" mon="element=其他娱乐">其他娱乐</a></li><li><a href="//bj.nuomi.com/700" target="_top" class="" mon="element=采摘">采摘</a></li><li><a href="//bj.nuomi.com/891" target="_top" class="" mon="element=4D/5D电影">4D/5D电影</a></li><li><a href="//bj.nuomi.com/895" target="_top" class="" mon="element=桌游">桌游</a></li><li><a href="//bj.nuomi.com/896" target="_top" class="" mon="element=电玩/游戏币">电玩/游戏币</a></li><li><a href="//bj.nuomi.com/897" target="_top" class="" mon="element=DIY手工">DIY手工</a></li><li><a href="//bj.nuomi.com/898" target="_top" class="" mon="element=密室逃脱">密室逃脱</a></li><li><a href="//bj.nuomi.com/899" target="_top" class="" mon="element=真人CS">真人CS</a></li><li><a href="//bj.nuomi.com/900" target="_top" class="" mon="element=卡丁车">卡丁车</a></li><li><a href="//bj.nuomi.com/901" target="_top" class="" mon="element=其他娱乐活动">其他娱乐活动</a></li><li><a href="//bj.nuomi.com/911" target="_top" class="" mon="element=游泳">游泳</a></li></ul><ul><li><a href="//bj.nuomi.com/914" target="_top" class="" mon="element=滑雪/滑冰">滑雪/滑冰</a></li><li><a href="//bj.nuomi.com/919" target="_top" class="" mon="element=其他养生保健">其他养生保健</a></li><li><a href="//bj.nuomi.com/920" target="_top" class="" mon="element=游乐园/水上乐园">游乐园/水上乐园</a></li><li><a href="//bj.nuomi.com/922" target="_top" class="" mon="element=录音棚">录音棚</a></li><li><a href="//bj.nuomi.com/952" target="_top" class="" mon="element=运动健身">运动健身</a></li><li><a href="//bj.nuomi.com/953" target="_top" class="" mon="element=演出/展览">演出/展览</a></li><li><a href="//bj.nuomi.com/1000003" target="_top" class="" mon="element=今日新单">今日新单</a></li></ul></div></div></div></div><div class="level-item" catg-id="330"><div data-index="3" class="first-level j-catg-row " mon="area=catg_330"><dl><dt class="title"><a href="http://mall.baidu.com/?from=nuomi_pc_mu" target="_blank" mon="element=购物">购物</a></dt><dd><a href="http://vip.baidu.com/act/xuyuan?vip_frm=nuomi_pc" target="_blank"  mon="element=1元">1元</a></dd><dd><a href="http://mall.baidu.com/category?catidList=1&from=nuomi_pc_sm1" target="_blank"  mon="element=食品">食品</a></dd><dd><a href="http://mall.baidu.com/category?catidList=1232&from=nuomi_pc_sm2" target="_blank"  mon="element=母婴">母婴</a></dd></dl></div></div><div class="level-item" catg-id="316"><div data-index="4" class="first-level j-catg-row " mon="area=catg_316"><dl><dt class="title"><a href="//bj.nuomi.com/316" target="_top" mon="element=生活服务">生活服务</a></dt><dd><a href="//bj.nuomi.com/956" target="_top" class="" mon="element=丽人">丽人</a></dd><dd><a href="//bj.nuomi.com/703" target="_top" class="" mon="element=配镜">配镜</a></dd><dd><a href="//bj.nuomi.com/930" target="_top" class="" mon="element=鲜花">鲜花</a></dd></dl></div><div class="second-level with-min" mon="area=catg_hover_316"><div class="section clearfix"><div class="section-item clearfix"><ul><li><a href="//bj.nuomi.com/319" target="_top" class="" mon="element=快照冲印">快照冲印</a></li><li><a href="//bj.nuomi.com/367" target="_top" class="" mon="element=宠物服务">宠物服务</a></li><li><a href="//bj.nuomi.com/375" target="_top" class="" mon="element=教育培训">教育培训</a></li><li><a href="//bj.nuomi.com/428" target="_top" class="" mon="element=儿童摄影">儿童摄影</a></li><li><a href="//bj.nuomi.com/459" target="_top" class="" mon="element=口腔">口腔</a></li><li><a href="//bj.nuomi.com/540" target="_top" class="" mon="element=其他生活服务">其他生活服务</a></li><li><a href="//bj.nuomi.com/565" target="_top" class="" mon="element=婚纱摄影">婚纱摄影</a></li><li><a href="//bj.nuomi.com/614" target="_top" class="" mon="element=个性写真">个性写真</a></li><li><a href="//bj.nuomi.com/616" target="_top" class="" mon="element=加油站">加油站</a></li><li><a href="//bj.nuomi.com/670" target="_top" class="" mon="element=体检">体检</a></li><li><a href="//bj.nuomi.com/702" target="_top" class="" mon="element=亲子">亲子</a></li><li><a href="//bj.nuomi.com/703" target="_top" class="" mon="element=配镜">配镜</a></li><li><a href="//bj.nuomi.com/704" target="_top" class="" mon="element=服装定制">服装定制</a></li><li><a href="//bj.nuomi.com/705" target="_top" class="" mon="element=洗衣店">洗衣店</a></li><li><a href="//bj.nuomi.com/706" target="_top" class="" mon="element=汽车养护">汽车养护</a></li></ul><ul><li><a href="//bj.nuomi.com/709" target="_top" class="" mon="element=婚庆服务">婚庆服务</a></li><li><a href="//bj.nuomi.com/875" target="_top" class="" mon="element=本地购物">本地购物</a></li><li><a href="//bj.nuomi.com/923" target="_top" class="" mon="element=证件照">证件照</a></li><li><a href="//bj.nuomi.com/924" target="_top" class="" mon="element=照片冲印">照片冲印</a></li><li><a href="//bj.nuomi.com/927" target="_top" class="" mon="element=家政服务">家政服务</a></li><li><a href="//bj.nuomi.com/928" target="_top" class="" mon="element=驾校/陪练">驾校/陪练</a></li><li><a href="//bj.nuomi.com/930" target="_top" class="" mon="element=鲜花">鲜花</a></li><li><a href="//bj.nuomi.com/931" target="_top" class="" mon="element=充值服务">充值服务</a></li><li><a href="//bj.nuomi.com/932" target="_top" class="" mon="element=送水/送奶">送水/送奶</a></li><li><a href="//bj.nuomi.com/956" target="_top" class="" mon="element=丽人">丽人</a></li><li><a href="//bj.nuomi.com/2001" target="_top" class="" mon="element=药品">药品</a></li><li><a href="//bj.nuomi.com/2002" target="_top" class="" mon="element=保健品">保健品</a></li><li><a href="//bj.nuomi.com/2003" target="_top" class="" mon="element=医疗器械">医疗器械</a></li><li><a href="//bj.nuomi.com/2008" target="_top" class="" mon="element=旅拍婚纱">旅拍婚纱</a></li></ul></div></div></div></div><div class="level-item" catg-id="642"><div data-index="5" class="first-level j-catg-row " mon="area=catg_642"><dl><dt class="title"><a href="//t.nuomi.com" target="_top" mon="element=酒店">酒店</a></dt><dd><a href="//t.nuomi.com/bj" target="_top" class="" mon="element=北京">北京</a></dd><dd><a href="//t.nuomi.com/sh" target="_top" class="" mon="element=上海">上海</a></dd><dd><a href="//t.nuomi.com/gz" target="_top" class="" mon="element=广州">广州</a></dd></dl></div></div><div class="level-item" catg-id="708"><div data-index="6" class="first-level j-catg-row " mon="area=catg_708"><dl><dt class="title"><a href="//v.nuomi.com" target="_top" mon="element=本地生活">本地生活</a></dt><dd><a href="//v.nuomi.com/1000338" target="_top" class="" mon="element=温泉洗浴">温泉洗浴</a></dd><dd><a href="//v.nuomi.com/1000700" target="_top" class="" mon="element=采摘">采摘</a></dd></dl></div><div class="second-level with-min" mon="area=catg_hover_708"><div class="section clearfix"><div class="section-item clearfix"><ul><li><a href="//v.nuomi.com/1000338" target="_top" class="" mon="element=温泉洗浴">温泉洗浴</a></li><li><a href="//v.nuomi.com/1000700" target="_top" class="" mon="element=采摘">采摘</a></li></ul></div></div></div></div><div class="level-item" catg-id="955"><div data-index="7" class="first-level j-catg-row  first-level-last " mon="area=catg_955"><dl><dt class="title"><a href="//bj.nuomi.com/955" target="_top" mon="element=丽人">丽人</a></dt><dd><a href="//bj.nuomi.com/646" target="_top" class="" mon="element=美发">美发</a></dd><dd><a href="//bj.nuomi.com/707" target="_top" class="" mon="element=美容SPA">美容SPA</a></dd><dd><a href="//bj.nuomi.com/556" target="_top" class="" mon="element=美甲">美甲</a></dd></dl></div><div class="second-level with-min" mon="area=catg_hover_955"><div class="section clearfix"><div class="section-item clearfix"><ul><li><a href="//bj.nuomi.com/556" target="_top" class="" mon="element=美甲">美甲</a></li><li><a href="//bj.nuomi.com/646" target="_top" class="" mon="element=美发">美发</a></li><li><a href="//bj.nuomi.com/707" target="_top" class="" mon="element=美容SPA">美容SPA</a></li><li><a href="//bj.nuomi.com/925" target="_top" class="" mon="element=化妆">化妆</a></li><li><a href="//bj.nuomi.com/926" target="_top" class="" mon="element=其他丽人">其他丽人</a></li></ul></div></div></div></div></div></li><li class="nav-item nav-item-first"><a href="//bj.nuomi.com" target="_top" class="item first active" mon="element=首页">首页</a></li><li class="nav-item hot-item-l"><a href="http://t10.nuomi.com/pc/t10/index?tid=t10_bj_pc" target="_top" class="item " mon="element=精选品牌">精选品牌</a><i class="iconfont">&#xe638;</i></li><li class="nav-item hot-item-s"><a href="//bj.nuomi.com/movie" target="_top" class="item " mon="element=电影">电影</a><i class="iconfont">&#xe638;</i></li><li class="nav-item"><a href="//t.nuomi.com" target="_top" class="item " mon="element=酒店">酒店</a></li><li class="nav-item item-dropdown"><div class="item">出行</div><i class="iconfont item-icon-arrowdown">&#xe659;</i><ul class="item-arrowdown-container"><li class="arrowdown-item"><a class="arrowdown-item-link" href="http://flight.baidu.com/flight/h5redirect?v=1.0&type=1&client=pcweb&app_from=bainuo&src_from=bainuo_pc_main" mon="element=机票" target="_blank"><div>机票</div></a></li><li class="arrowdown-item"><a class="arrowdown-item-link" href="http://api.kuai.baidu.com/cserver/train/redirectctrip?&u=http%253a%252f%252ftrains.ctrip.com%252f%253f%2526mkt_header%253dbdkx%2526allianceID%253d106175%2526sid%253d549977%0a&us=nuomi_pc" mon="element=火车" target="_blank"><div>火车票</div></a></li><li class="arrowdown-item"><a class="arrowdown-item-link" href="http://kuai.baidu.com/pc/index/index?us=nuomi_pc" mon="element=汽车" target="_blank"><div>汽车票</div></a></li></ul></li><li class="nav-item"><a href="http://mall.baidu.com/?from=nuomi_pc_ba" target="_blank" class="item " mon="element=购物">购物</a></li><li class="nav-item"><a href="http://waimai.baidu.com/?utm_source=bainuo&utm_medium=nav&utm_content=toububiaoqian&utm_term=default&utm_campaign=beijing&cid=PC_%E5%93%81%E7%89%8C%E6%8E%A8%E5%B9%BF_940766" target="_blank" class="item" mon="element=外卖">外卖</a></li><li class="nav-item"><a href="//bj.nuomi.com/new" target="_top" class="item " mon="element=今日新单">今日新单</a></li></ul></div></div>
+
+<div class="container clearfix flexible"><div class="top-container clearfix">
+<div class="mid-area">
+<div class="slide-holder" mon="area=recomHot"><a href="#" class="slide-prev"><i class="slide-arrow-left"></i></a><a href="#" class="slide-next"><i class="slide-arrow-right"></i></a><ul class="slideshow clearfix" id="j-sliders" mon="s="><li  bn_box="recomHot&position" class="clearfix"><a data-item-st='{"s":""}' href="http://activity.nuomi.com/mis/activity/common/short_url/ouzhoubei?preview=1&timestamp=1465383651&sign=35ae25f5036165608cbb1914d7bbb429" class="item-large" title=""mon="element=adver_29785&position=adver_1&element_type=nav"><img src="http://f.hiphotos.baidu.com/lbs/pic/item/11385343fbf2b2118603f77ac28065380cd78ed0.jpg" alt="欧洲杯" class="ad-pic"></a></li></ul></div><div class="list-container clearfix"><div class="list-wrapper clearfix" mon="area=mid_category_hot_tuangou"><div class="title">热门团购</div><ul class="mid-list"><li><a href="//www.nuomi.com/deal/movies" class=""mon="element=电影&position=0">电影</a></li><li><a href="//www.nuomi.com/392" class="hot"mon="element=自助餐&position=1">自助餐</a></li><li><a href="//www.nuomi.com/341" class=""mon="element=KTV&position=2">KTV</a></li><li><a href="//www.nuomi.com/364" class="hot"mon="element=火锅&position=3">火锅</a></li><li><a href="//www.nuomi.com/881" class=""mon="element=蛋糕&position=4">蛋糕</a></li><li><a href="//t.nuomi.com" class="hot"mon="element=酒店&position=5">酒店</a></li><li><a href="//www.nuomi.com/380" class=""mon="element=小吃快餐&position=6">小吃快餐</a></li><li><a href="//www.nuomi.com/391" class=""mon="element=西餐&position=7">西餐</a></li><li><a href="//www.nuomi.com/393" class=""mon="element=川菜&position=8">川菜</a></li><li><a href="//w.nuomi.com/?/357-0-0-f-gn" class="hot"mon="element=家居家纺&position=9">家居家纺</a></li><li><a href="/category/2-meishi-460-0-0-pd-f-0" class=""mon="element=烧烤&position=10">烧烤</a></li><li><a href="//www.nuomi.com/501" class=""mon="element=韩国料理&position=11">韩国料理</a></li><li><a href="//www.nuomi.com/688" class=""mon="element=游乐游艺&position=12">游乐游艺</a></li><li><a href="//w.nuomi.com/?/675-801-0-f-gn" class=""mon="element=休闲零食&position=13">休闲零食</a></li><li><a href="/category/2-qita-646-0-0-pd-f-0-0-0" class=""mon="element=美发&position=14">美发</a></li><li><a href="/category/2-yule-338-0-0-pd-f-0" class=""mon="element=温泉洗浴&position=15">温泉洗浴</a></li><li><a href="/category/2-shenghuo-956-0-0-pd-f-0" class=""mon="element=美容SPA&position=16">美容SPA</a></li><li><a href="/category/2-shenghuo-930-0-0-pd-f-0" class=""mon="element=鲜花&position=17">鲜花</a></li><li><a href="//w.nuomi.com/?/353-854-0-f-gn" class="hot"mon="element=保暖内衣&position=18">保暖内衣</a></li><li><a href="/category/2-meishi-691-0-0-pd-f-0" class=""mon="element=聚会宴请&position=19">聚会宴请</a></li><li><a href="/category/2-meishi-439-0-0-pd-f-0" class="hot"mon="element=海鲜&position=20">海鲜</a></li><li><a href="/category/2-shenghuo-670-0-0-pd-f-0" class=""mon="element=体检&position=21">体检</a></li><li><a href="/category/2-meishi-424-0-0-pd-f-0" class=""mon="element=本帮江浙菜&position=22">本帮江浙菜</a></li><li><a href="//www.nuomi.com/search?k=%E4%BB%A3%E9%87%91%E5%88%B8" class=""mon="element=代金券&position=23">代金券</a></li></ul></div><div class="list-wrapper clearfix" mon="area=mid_category_all_zone"><div class="title">全部区域</div><ul class="mid-list" id="j-location-list"><li><a href="//bj.nuomi.com/all/1" class=""mon="element=地铁附近&position=0">地铁附近</a></li><li><a href="//bj.nuomi.com/all/307" class=""mon="element=朝阳区&position=1">朝阳区</a></li><li><a href="//bj.nuomi.com/all/392" class=""mon="element=海淀区&position=2">海淀区</a></li><li><a href="//bj.nuomi.com/all/395" class=""mon="element=丰台区&position=3">丰台区</a></li><li><a href="//bj.nuomi.com/all/406" class=""mon="element=昌平区&position=4">昌平区</a></li><li><a href="//bj.nuomi.com/all/396" class=""mon="element=西城区&position=5">西城区</a></li><li><a href="//bj.nuomi.com/all/408" class=""mon="element=通州区&position=6">通州区</a></li><li><a href="//bj.nuomi.com/all/409" class=""mon="element=大兴区&position=7">大兴区</a></li><li><a href="//bj.nuomi.com/all/394" class=""mon="element=东城区&position=8">东城区</a></li><li><a href="//bj.nuomi.com/all/6544" class=""mon="element=房山区&position=9">房山区</a></li><li><a href="//bj.nuomi.com/all/6545" class=""mon="element=顺义区&position=10">顺义区</a></li><li><a href="//bj.nuomi.com/all/410" class=""mon="element=石景山区&position=11">石景山区</a></li><li><a href="//bj.nuomi.com/all/6548" class=""mon="element=密云县&position=12">密云县</a></li><li><a href="//bj.nuomi.com/all/6546" class=""mon="element=怀柔区&position=13">怀柔区</a></li><li><a href="//bj.nuomi.com/all/6547" class=""mon="element=平谷区&position=14">平谷区</a></li><li><a href="//bj.nuomi.com/all/6549" class=""mon="element=延庆县&position=15">延庆县</a></li><li><a href="//bj.nuomi.com/all/5985" class=""mon="element=门头沟区&position=16">门头沟区</a></li></ul><div class="all-locate"><i class="locate-logo iconfont">&#xe64e;</i></div><div id="all-location-list" class="all-location-list"><div class="title">全部区域</div><ul class="mid-list"><li><a href="//bj.nuomi.com/all/1" class=""mon="element=地铁附近&position=0">地铁附近</a></li><li><a href="//bj.nuomi.com/all/307" class=""mon="element=朝阳区&position=1">朝阳区</a></li><li><a href="//bj.nuomi.com/all/392" class=""mon="element=海淀区&position=2">海淀区</a></li><li><a href="//bj.nuomi.com/all/395" class=""mon="element=丰台区&position=3">丰台区</a></li><li><a href="//bj.nuomi.com/all/406" class=""mon="element=昌平区&position=4">昌平区</a></li><li><a href="//bj.nuomi.com/all/396" class=""mon="element=西城区&position=5">西城区</a></li><li><a href="//bj.nuomi.com/all/408" class=""mon="element=通州区&position=6">通州区</a></li><li><a href="//bj.nuomi.com/all/409" class=""mon="element=大兴区&position=7">大兴区</a></li><li><a href="//bj.nuomi.com/all/394" class=""mon="element=东城区&position=8">东城区</a></li><li><a href="//bj.nuomi.com/all/6544" class=""mon="element=房山区&position=9">房山区</a></li><li><a href="//bj.nuomi.com/all/6545" class=""mon="element=顺义区&position=10">顺义区</a></li><li><a href="//bj.nuomi.com/all/410" class=""mon="element=石景山区&position=11">石景山区</a></li><li><a href="//bj.nuomi.com/all/6548" class=""mon="element=密云县&position=12">密云县</a></li><li><a href="//bj.nuomi.com/all/6546" class=""mon="element=怀柔区&position=13">怀柔区</a></li><li><a href="//bj.nuomi.com/all/6547" class=""mon="element=平谷区&position=14">平谷区</a></li><li><a href="//bj.nuomi.com/all/6549" class=""mon="element=延庆县&position=15">延庆县</a></li><li><a href="//bj.nuomi.com/all/5985" class=""mon="element=门头沟区&position=16">门头沟区</a></li></ul></div></div><div class="list-wrapper clearfix last" id="j-hotRange" mon="area=mid_category_hot_circle"><div class="title">热门商圈</div><ul class="mid-list no-bottom-border"></ul></div></div>
+</div>
+</div>
+<div class="right-sidebar"><div class="right-ad" id="j-rightAd"></div><div class="right-erweima" mon="area=app_download"><a href="http://d.nuomi.com/?1009764s" target="_blank" mon="element=http://d.nuomi.com/?1009764s">下载手机版</a></div><div class="hot-area no-bottom-border" id="j-hotTopic"></div><div class="hot-mall" id="j-hotMall"></div><div id="new-index-right-sidebar-wrap"></div></div>
+<div class="content-container" id="j-top-search-show"><div class="top-collect" id="sticky-refer" mon="area=t10"><div class="top-title clearfix"><span class="title">精选品牌</span><span class="sub-title">Brand selection</span><span class="right-all"><a href="http://t10.nuomi.com/pc/t10/index?tid=t10_bj_pc" mon="element=link_all">全部<span class="all-cate-arrow"></span></a></span></div><div id="j-t10logo-box"></div></div><div class="sidecate nav  t10-fix"><ul id="sticky-panel"  mon="area=floor_anchor"><li data-role="sticky-panel-today-recom" style="display:none"><a href="#section-floor-0" mon="element=今日推荐&position=0" class="with-top-border"><i class="inner-ico iconfont iconfont-recom" id="left-panel-0"></i><span class="inner-text">推荐</span></a></li><li><a href="#section-floor-1"  mon="element=美食&position=1"><i class="inner-ico iconfont iconfont-326" id="left-panel-1"></i><span class="inner-text">美食</span></a></li><li><a href="#section-floor-2"  mon="element=电影&position=2"><i class="inner-ico iconfont iconfont-10345" id="left-panel-2"></i><span class="inner-text">电影</span></a></li><li><a href="#section-floor-3"  mon="element=娱乐&position=3"><i class="inner-ico iconfont iconfont-320" id="left-panel-3"></i><span class="inner-text">娱乐</span></a></li><li><a href="#section-floor-5"  mon="element=生活&position=5"><i class="inner-ico iconfont iconfont-316" id="left-panel-5"></i><span class="inner-text">生活</span></a></li><li><a href="#section-floor-6"  mon="element=酒店&position=6"><i class="inner-ico iconfont iconfont-642" id="left-panel-6"></i><span class="inner-text">酒店</span></a></li><li><a href="#section-floor-7"  mon="element=本地&position=7"><i class="inner-ico iconfont iconfont-708" id="left-panel-7"></i><span class="inner-text">本地</span></a></li><li><a href="#section-floor-8"  mon="element=丽人&position=8"><i class="inner-ico iconfont iconfont-10955" id="left-panel-8"></i><span class="inner-text">丽人</span></a></li></ul></div><div id="floor-content-start"><div id="today-recom-wrap"></div><div class="floor-content" id="section-floor-1" mon="area=floor_content_326" bn_box="floor_326&position"><div class="floor-header clearfix" ><span id="title-floor-1"><i class="iconfont iconfont-326"></i></span><h3>美食</h3><ul class="reco-words"><li><a href="http://t10.nuomi.com/pc/t10/index" target="_blank" mon="element=精选品牌&position=0">精选品牌</a></li><li><a href="//bj.nuomi.com/380" target="_blank" mon="element=小吃快餐&position=1">小吃快餐</a></li><li><a href="//bj.nuomi.com/392" target="_blank" mon="element=自助餐&position=2">自助餐</a></li><li><a href="//bj.nuomi.com/327" target="_blank" mon="element=其他美食&position=3">其他美食</a></li><li><a class="no-right-border no-right-padding" mon="element=top_link" href="//bj.nuomi.com/326" target="_blank">全部<span class="all-cate-arrow"></span></a></li></ul></div><ul class="itemlist clearfix eight-row-height"><li class="row-first-item  narow-first-item  clear-first j-card"><a href="//www.nuomi.com/deal/mv5angon.html"target="_blank"class=""data-topten="k=icon_1&v=7048521"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=7048521&position=1&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>中关村 上地 昌平镇 回龙观 管庄 天通苑 平谷 清河 鲁谷 北京欢乐谷 北沙滩 双桥 沙河 北京大学 生命科学园</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D99/sign=a09dc1498ab1cb132a266653e0647a7e/42166d224f4a20a4d216966197529822720ed008.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/mv5angon.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=7048521"mon="s=7a73a0b75d12cb71e8892191c317a112&element=7048521&position=1&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【14店通用】铁木真</h4></div><p>单人自助餐！节假日通用，提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>59</span><span class="ori-price">价值<span class="price-line">&yen;<span>69</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售146932</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/5ohxvmcj.html"target="_blank"class=""data-topten="k=icon_1&v=12909244"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=12909244&position=2&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>安贞 广渠门 亦庄 黄村 崇文门 前门 天坛 看丹桥 甜水园 五路居</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=ca5fd29090dda144ce4636f28f87fc92/377adab44aed2e734d5cf0af8001a18b86d6faf8.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/5ohxvmcj.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=12909244"mon="s=7a73a0b75d12cb71e8892191c317a112&element=12909244&position=2&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【12店通用】便宜坊</h4></div><p>100元代金券！可使用包间！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>90</span><span class="ori-price">价值<span class="price-line">&yen;<span>100</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售16060</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/al07avjq.html"target="_blank"class=""data-topten="k=icon_1&v=4346748"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=4346748&position=3&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>回龙观 亦庄 天通苑 门头沟 马驹桥</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D99/sign=4326ace6d339b600598155f7d460191a/faedab64034f78f0a1de35f67f310a55b2191cd9.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/al07avjq.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=4346748"mon="s=7a73a0b75d12cb71e8892191c317a112&element=4346748&position=3&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【4店通用】好伦哥</h4></div><p>单人自助餐！节假日通用，提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>49</span><span class="ori-price">价值<span class="price-line">&yen;<span>56</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售94013</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/ntakm39c.html"target="_blank"class=""data-topten="k=icon_1&v=4558458"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=4558458&position=4&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>顺义</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C1%2C2300%2C1392%3Bw%3D720%3Bq%3D99/sign=a0928cc998510fb36c562dd7e403e4a4/0df3d7ca7bcb0a46b44049496d63f6246b60af64.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/ntakm39c.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=4558458"mon="s=7a73a0b75d12cb71e8892191c317a112&element=4558458&position=4&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【顺义】比亚森啤酒健康烤肉</h4></div><p>【推荐】顺义店单人自助！节假日通用，店内提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>59</span><span class="ori-price">价值<span class="price-line">&yen;<span>69</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售65426</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/e00ipxv13.html"target="_blank"class=""data-topten="k=icon_1&v=30040914"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=30040914&position=5&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>三元桥 朝外大街 西单 西直门 国贸 万寿路 望京 三里屯 五棵松 大望路 管庄 崇文门 青年路 万柳 太阳宫 朝阳大悦城…</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=f273cfdc32fae6cd18fbf12132832314/9a504fc2d56285358085fcca97ef76c6a6ef63f7.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/e00ipxv13.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=30040914"mon="s=7a73a0b75d12cb71e8892191c317a112&element=30040914&position=5&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【14店通用】绿茶</h4></div><p>100元代金券！免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>99</span><span class="ori-price">价值<span class="price-line">&yen;<span>100</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售33473</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/zui7mavd.html"target="_blank"class=""data-topten="k=icon_1&v=3158012"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3158012&position=6&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>五道口 劲松 五棵松 团结湖 农展馆</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D99/sign=c643f697b04543a9e154a08c2327a6b2/3b292df5e0fe9925c96b413333a85edf8db17169.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/zui7mavd.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3158012"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3158012&position=6&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【4店通用】富丽客巴西自助烤肉</h4></div><p>单人自助！无需预约，全场通用，儿童老人享受优惠！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>63</span><span class="ori-price">价值<span class="price-line">&yen;<span>68</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售130635</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/yyueyqqe.html"target="_blank"class=""data-topten="k=icon_1&v=8030467"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8030467&position=7&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>顺义</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C21%2C690%2C418%3Bw%3D470%3Bq%3D80/sign=46c00ee485025aafc77d248bc6dd8756/060828381f30e9242f4ad4154b086e061d95f72c.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/yyueyqqe.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8030467"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8030467&position=7&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【顺义】海之旅海鲜自助烧烤</h4></div><p>单人晚餐海鲜自助！节假日通用，提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>69</span><span class="ori-price">价值<span class="price-line">&yen;<span>89</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售16536</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/ke0370si.html"target="_blank"class=""data-topten="k=icon_1&v=3815535"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3815535&position=8&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>安贞 六里桥 丽泽桥 安定门 劲松 昌平镇 航天桥 房山 天通苑 平谷 通州区 通州北苑 良乡</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D79/sign=82b2a44a5543fbf2d163fc638d4ee6b0/b219ebc4b74543a9c6c87b8e18178a82b80114a4.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/ke0370si.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3815535"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3815535&position=8&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【9店通用】好伦哥</h4></div><p>单人自助餐！免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>52</span><span class="ori-price">价值<span class="price-line">&yen;<span>56</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售309105</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/vblyuhfq.html"target="_blank"class=""data-topten="k=icon_1&v=972275"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=972275&position=9&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>梨园 通州区</div></div><div class="borderbox"><img data-original="http://S0.nuomi.bdimg.com/upload/mfs201505/deal/2014/5/V_G/972275-q25mgs6igq-41382041891654082.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/vblyuhfq.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=972275"mon="s=7a73a0b75d12cb71e8892191c317a112&element=972275&position=9&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【梨园】汉丽轩</h4></div><p>梨园店单人烤肉自助午餐！节假日通用！ </p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>42</span><span class="ori-price">价值<span class="price-line">&yen;<span>55</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售38994</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/rjink9xi.html"target="_blank"class=""data-topten="k=icon_1&v=11891962"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=11891962&position=10&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>管庄 清河 双桥</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=44808a5ca6ec08fa324f49e764de115d/a5c27d1ed21b0ef4a856b6bddbc451da80cb3e92.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/rjink9xi.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=11891962"mon="s=7a73a0b75d12cb71e8892191c317a112&element=11891962&position=10&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【2店通用】金真子纸上烤肉</h4></div><p>单人自助餐！免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>53</span><span class="ori-price">价值<span class="price-line">&yen;<span>59</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售11224</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/jf2khatr.html"target="_blank"class=""data-topten="k=icon_1&v=6202941"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=6202941&position=11&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>通州区 果园 九棵树</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=20384b19402309f7f320f7524f3e20c3/d1160924ab18972bbb755e47e0cd7b899f510aeb.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/jf2khatr.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=6202941"mon="s=7a73a0b75d12cb71e8892191c317a112&element=6202941&position=11&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【通州区】金诺郎韩式养生自助烤肉</h4></div><p>京通罗斯福店午市自助烤肉！免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>58</span><span class="ori-price">价值<span class="price-line">&yen;<span>65</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售10332</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/tclmitv8.html"target="_blank"class=""data-topten="k=icon_1&v=8153981"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8153981&position=12&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>回龙观</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D79/sign=c9abef1f968fa0ec6b883e4d1ba775de/4610b912c8fcc3ce6886e41f9545d688d43f2053.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/tclmitv8.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8153981"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8153981&position=12&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【回龙观】汉丽轩</h4></div><p>回龙观店单人自助餐！节假日通用，提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>48</span><span class="ori-price">价值<span class="price-line">&yen;<span>55</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售14099</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item  narow-first-item  clear-first j-card"><a href="//www.nuomi.com/deal/1wqecpvh.html"target="_blank"class=""data-topten="k=icon_1&v=8004182"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8004182&position=13&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>沙河 生命科学园</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D79/sign=4140b679f1246b606f41e834d6c8367c/962bd40735fae6cd84c0434b08b30f2442a70fa0.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/1wqecpvh.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8004182"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8004182&position=13&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【沙河】金诺郎韩式养生自助餐</h4></div><p>永旺店单人自助餐！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>59</span><span class="ori-price">价值<span class="price-line">&yen;<span>69</span></span></span></div><div class="footer clearfix"><span class="comment">4.1分</span><span class="sold">已售10170</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/njqp6cdy.html"target="_blank"class=""data-topten="k=icon_1&v=7770955"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=7770955&position=14&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>远大路 万柳</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=df57c8ced6c8a786aa65104e5a39e50d/b7003af33a87e950cf629b5817385343fbf2b489.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/njqp6cdy.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=7770955"mon="s=7a73a0b75d12cb71e8892191c317a112&element=7770955&position=14&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【远大路】玫瑰花园</h4></div><p>远大路店单人自助餐！提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>73</span><span class="ori-price">价值<span class="price-line">&yen;<span>79</span></span></span></div><div class="footer clearfix"><span class="comment">4.8分</span><span class="sold">已售44821</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/ciibbj6z.html"target="_blank"class=""data-topten="k=icon_1&v=2653804"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=2653804&position=15&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>安贞 六里桥 丽泽桥 安定门 劲松 昌平镇 航天桥 房山 天通苑 平谷 通州区 通州北苑 良乡</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D79/sign=b7bfc62ab5de9c82b22aa3cf51b1ac3a/730e0cf3d7ca7bcb2fa1e53cb8096b63f724a8ce.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/ciibbj6z.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=2653804"mon="s=7a73a0b75d12cb71e8892191c317a112&element=2653804&position=15&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【9店通用】好伦哥</h4></div><p>3人自助餐！好伦哥北京8店通用，提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>150</span><span class="ori-price">价值<span class="price-line">&yen;<span>168</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售49046</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/y00oxbqxu.html"target="_blank"class=""data-topten="k=icon_1&v=30339992"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=30339992&position=16&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>亚运村 鸟巢</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D99/sign=e5280b5c4ded2e73e8a6dc6cba318dbb/d058ccbf6c81800aca8a6dd6b63533fa838b47ff.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/y00oxbqxu.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=30339992"mon="s=7a73a0b75d12cb71e8892191c317a112&element=30339992&position=16&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【亚运村】葛尔丹自助海鲜烤肉火锅</h4></div><p>单人自助1份！免费停车，免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>58</span><span class="ori-price">价值<span class="price-line">&yen;<span>79</span></span></span></div><div class="footer clearfix"><span class="comment">4.3分</span><span class="sold">已售1642</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/hcrxccxx.html"target="_blank"class=""data-topten="k=icon_1&v=4866049"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=4866049&position=17&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>通州区 果园 九棵树</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D79/sign=fb21e565a78b87d6440df15f3a380408/bd3eb13533fa828bee23cab7fb1f4134970a5a65.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/hcrxccxx.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=4866049"mon="s=7a73a0b75d12cb71e8892191c317a112&element=4866049&position=17&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【通州区】金诺郎韩式养生自助烤肉</h4></div><p>京通罗斯福店单人晚市自助！提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>66</span><span class="ori-price">价值<span class="price-line">&yen;<span>78</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售13158</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/eliieg8y.html"target="_blank"class=""data-topten="k=icon_1&v=7771042"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=7771042&position=18&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>青年路 朝阳大悦城 姚家园</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=2cf801dd332ac65c734a3c33c6c29e21/1f178a82b9014a90e07c9b00af773912b21beec9.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/eliieg8y.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=7771042"mon="s=7a73a0b75d12cb71e8892191c317a112&element=7771042&position=18&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【青年路】玫瑰花园</h4></div><p>单人自助餐！提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>73</span><span class="ori-price">价值<span class="price-line">&yen;<span>79</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售20751</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/5re9kexf.html"target="_blank"class=""data-topten="k=icon_1&v=8892009"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8892009&position=19&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>五路居</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D79/sign=1af80830d658ccbf0ff3ef7a24e8900e/d6ca7bcb0a46f21f172fffd1f1246b600c33ae1d.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/5re9kexf.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8892009"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8892009&position=19&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【五路居】鑫斯堡自助啤酒烤肉</h4></div><p>田村店单人自助晚餐！节假日通用！提供免费WiFi、停车位！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>55</span><span class="ori-price">价值<span class="price-line">&yen;<span>60</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售6989</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/t6uacssp.html"target="_blank"class=""data-topten="k=icon_1&v=8050777"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8050777&position=20&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>魏公村 北下关 苏州桥 草桥 马家堡</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=7e79c9baa30f4bfb989fc4143e7f54c0/8d5494eef01f3a29d18e73eb9e25bc315c607c55.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/t6uacssp.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8050777"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8050777&position=20&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【2店通用】好伦哥</h4></div><p>单人自助！周一至周五晚餐可用，周六日全天可用！提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>73</span><span class="ori-price">价值<span class="price-line">&yen;<span>79</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售13962</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/o00khjfit.html"target="_blank"class=""data-topten="k=icon_1&v=30106069"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=30106069&position=21&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>三元桥 魏公村 广外大街 北下关 五道口 酒仙桥 双榆树 朝外大街 中关村 方庄 西单 远大路 王府井 西直门 对外经贸…</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C1%2C1772%2C1073%3Bw%3D720%3Bq%3D99/sign=a5ba417b502c11dfca9ee5635e174ee1/b90e7bec54e736d1e84d0a909c504fc2d46269c8.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/o00khjfit.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=30106069"mon="s=7a73a0b75d12cb71e8892191c317a112&element=30106069&position=21&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【多店通用】吉野家</h4></div><p>美味套餐！节假日通用！</p></a><div class="add-info"><span class="promo">验券满返</span></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>18.9</span><span class="ori-price">价值<span class="price-line">&yen;<span>23</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售6197</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/3v8vqgjs.html"target="_blank"class=""data-topten="k=icon_1&v=3158766"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3158766&position=22&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>五棵松</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D79/sign=81daefafc4cec3fd9f71fd35ebb8f80f/faf2b2119313b07ef248426b0bd7912396dd8cdf.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/3v8vqgjs.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3158766"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3158766&position=22&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【五棵松】好伦哥</h4></div><p>单人自助餐！无需预约，免费停车位！全方位服务，自由选择！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>55</span><span class="ori-price">价值<span class="price-line">&yen;<span>59</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售50916</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/300l5oosa.html"target="_blank"class=""data-topten="k=icon_1&v=30144264"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=30144264&position=23&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>十里堡 慈云寺</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D79/sign=831805720bf431ada89d19797606809f/b151f8198618367aeb1b9f3d29738bd4b21ce544.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/300l5oosa.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=30144264"mon="s=7a73a0b75d12cb71e8892191c317a112&element=30144264&position=23&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【十里堡】鑫海汇海鲜烤肉自助</h4></div><p>单人午餐自助1位！免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>57.9</span><span class="ori-price">价值<span class="price-line">&yen;<span>79</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售1480</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/9q8lcog4.html"target="_blank"class=""data-topten="k=icon_1&v=4046241"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=4046241&position=24&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>洋桥 马家堡</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D7%2C0%2C587%2C356%3Bw%3D469%3Bq%3D79/sign=5ca752c614dfa9ece9610c575fe7db33/960a304e251f95ca7fbca26ccc177f3e6609529a.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/9q8lcog4.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=4046241"mon="s=7a73a0b75d12cb71e8892191c317a112&element=4046241&position=24&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【洋桥】天福上品火锅牛牛烤肉</h4></div><p>单人自助午晚餐通用！节假日通用，提供免费WiFi、停车位！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>63</span><span class="ori-price">价值<span class="price-line">&yen;<span>134</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售36325</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item  narow-first-item  clear-first j-card"><a href="//www.nuomi.com/deal/l8hzuops.html"target="_blank"class=""data-topten="k=icon_1&v=7452310"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=7452310&position=25&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>三元桥 魏公村 北下关 左家庄 六里桥 丽泽桥 劲松 望京 亚运村 顺义 航天桥 回龙观 大望路 管庄 房山 黄村 天通苑…</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D99/sign=4f4db215a444ad343af0ddc7ed9220c4/f703738da97739126d759599fd198618377ae2f3.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/l8hzuops.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=7452310"mon="s=7a73a0b75d12cb71e8892191c317a112&element=7452310&position=25&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【48店通用】大鸭梨</h4></div><p>100元代金券！</p></a><div class="add-info"><span class="promo">立减4.5元</span></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>89</span><span class="ori-price">价值<span class="price-line">&yen;<span>100</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售110119</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/bgmadotl.html"target="_blank"class=""data-topten="k=icon_1&v=4160923"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=4160923&position=26&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>天通苑</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=c55d24bb092442a7ba41a7e5ec73817b/e61190ef76c6a7ef9517b61efbfaaf51f3de66d0.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/bgmadotl.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=4160923"mon="s=7a73a0b75d12cb71e8892191c317a112&element=4160923&position=26&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【天通苑】永远爱自助烤肉火锅</h4></div><p>【推荐】全天单人自助！节假日通用！提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>62</span><span class="ori-price">价值<span class="price-line">&yen;<span>69</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售44942</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/hhdggfuf.html"target="_blank"class=""data-topten="k=icon_1&v=7663585"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=7663585&position=27&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>管庄 常营</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D29%2C0%2C542%2C329%3Bw%3D469%3Bq%3D79/sign=d717a0f1d0ca7bcb69349d6f833b524f/023b5bb5c9ea15ce93ca793bb1003af33a87b2d8.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/hhdggfuf.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=7663585"mon="s=7a73a0b75d12cb71e8892191c317a112&element=7663585&position=27&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【12店通用】龙湖长楹天街</h4></div><p>100元代金券！免费WiFi！</p></a><div class="add-info"><span class="promo">立减10元</span></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>80</span><span class="ori-price">价值<span class="price-line">&yen;<span>100</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售32179</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/wq7nadtg.html"target="_blank"class=""data-topten="k=icon_1&v=13456720"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=13456720&position=28&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>房山 良乡</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C93%2C1280%2C775%3Bw%3D720%3Bq%3D79/sign=2deb6e13d262853586af8861addf5aff/b7fd5266d01609241da3b6fad30735fae7cd3448.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/wq7nadtg.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=13456720"mon="s=7a73a0b75d12cb71e8892191c317a112&element=13456720&position=28&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【房山】汉釜宫</h4></div><p>汉釜宫晚餐自助1份！免费停车，免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>51.7</span><span class="ori-price">价值<span class="price-line">&yen;<span>78</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售1316</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/50lftp5w.html"target="_blank"class=""data-topten="k=icon_1&v=11632710"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=11632710&position=29&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>马家堡</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D15%2C35%2C659%2C399%3Bw%3D470%3Bq%3D90/sign=294f69eb87cb39dbd58f3d16ed273c08/a1ec08fa513d2697ad65055c53fbb2fb4316d879.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/50lftp5w.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=11632710"mon="s=7a73a0b75d12cb71e8892191c317a112&element=11632710&position=29&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【马家堡】金源酒店</h4></div><p>单人自助午晚餐！提供免费WiFi、停车位！</p></a><div class="add-info"><span class="promo">立减3元</span></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>68</span><span class="ori-price">价值<span class="price-line">&yen;<span>178</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售1174</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/uatmbip1.html"target="_blank"class=""data-topten="k=icon_1&v=549051"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=549051&position=30&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>王府井</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=ac214d20942397ddc236c24464b29e87/8718367adab44aede76aca23b61c8701a08bfbd5.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/uatmbip1.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=549051"mon="s=7a73a0b75d12cb71e8892191c317a112&element=549051&position=30&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【王府井】南京大饭店</h4></div><p>单人自助餐！可叠加使用，提供免费WiFi，节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>98.99</span><span class="ori-price">价值<span class="price-line">&yen;<span>138</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售29752</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/wvygf2re.html"target="_blank"class=""data-topten="k=icon_1&v=2468923"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=2468923&position=31&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>房山 良乡</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/nuomi/wh%3D470%2C285/sign=4a7e99720df41bd5da06e0f066eaadf9/2e2eb9389b504fc2e202ce5ce6dde71190ef6d0d.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/wvygf2re.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=2468923"mon="s=7a73a0b75d12cb71e8892191c317a112&element=2468923&position=31&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【2店通用】很久前烤串坊</h4></div><p>20串羊肉串！优质原料，细细品尝，浓香外溢，美味独享，环境优雅！免预约！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>19.9</span><span class="ori-price">价值<span class="price-line">&yen;<span>50</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售3198</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/vzgdeeta.html"target="_blank"class=""data-topten="k=icon_1&v=8137282"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8137282&position=32&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>三元桥</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C21%2C690%2C418%3Bw%3D470%3Bq%3D80/sign=7858be3ebb315c6057da31afb081e721/d000baa1cd11728bdfb69e09cffcc3cec3fd2c05.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/vzgdeeta.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8137282"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8137282&position=32&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【三元桥】胶东海鲜</h4></div><p>西坝河店4人餐！提供免费WiFi、停车位！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>138</span><span class="ori-price">价值<span class="price-line">&yen;<span>300</span></span></span></div><div class="footer clearfix"><span class="comment">4.8分</span><span class="sold">已售544</span><div class="bottom-border"></div></div></div></a></li></ul><a class="check-all" href="//bj.nuomi.com/326" mon="element=bottom_link" target="_blank">查看全部团购<span class="all-cate-arrow2"></span></a></div><div class="floor-content" id="section-floor-2" mon="area=floor_content_10345" bn_box="floor_10345&position"><div class="floor-header clearfix" ><span id="title-floor-2"><i class="iconfont iconfont-10345"></i></span><h3>电影</h3><ul class="reco-words"><li><a href="//bj.nuomi.com/xuanzuo/" target="_blank" mon="element=在线订座&position=0">在线订座</a></li><li><a href="//bj.nuomi.com/film/" target="_blank" mon="element=电影票团购&position=1">电影票团购</a></li><li><a href="//bj.nuomi.com/film/9745" target="_blank" mon="element=魔兽&position=2">魔兽</a></li><li><a href="//bj.nuomi.com/film/9717" target="_blank" mon="element=X战警：天启&position=3">X战警：天启</a></li><li><a class="no-right-border no-right-padding" mon="element=top_link" href="//bj.nuomi.com/10345" target="_blank">全部<span class="all-cate-arrow"></span></a></li></ul></div><ul class="itemlist clearfix two-row-height"><li class="row-first-item  narow-first-item  clear-first j-card"><a href="//www.nuomi.com/deal/fi1gnevv.html"target="_blank"class=""data-topten="k=icon_1&v=551937"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=551937&position=1&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>万柳</div></div><div class="borderbox"><img data-original="http://S2.nuomi.bdimg.com/upload/mfs201502/deal/2013/12/V_G/551937-7x477txi8x-34357399633094003.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/fi1gnevv.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=551937"mon="s=7a73a0b75d12cb71e8892191c317a112&element=551937&position=1&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【万柳】海淀工人文化宫</h4></div><p>单人影票（含3D）！大片精彩，喜剧爆笑不断，不限时段，不限场次，不限节假日！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>28</span><span class="ori-price">价值<span class="price-line">&yen;<span>80</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售39396</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/gtawjtry.html"target="_blank"class=""data-topten="k=icon_1&v=6930874"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=6930874&position=2&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>北苑家园</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=ae263db9d7160924dc70aa1fe33719c8/77c6a7efce1b9d16e521c08ef4deb48f8d54647e.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/gtawjtry.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=6930874"mon="s=7a73a0b75d12cb71e8892191c317a112&element=6930874&position=2&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【北苑家园】K酷国际影城</h4></div><p>单人影票（含3D）！节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>35.5</span><span class="ori-price">价值<span class="price-line">&yen;<span>120</span></span></span></div><div class="footer clearfix"><span class="comment">4.8分</span><span class="sold">已售9434</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/e2rldhuf.html"target="_blank"class=""data-topten="k=icon_1&v=443112"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=443112&position=3&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>国贸</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=23565cf96c600c33f02cd6cc2d7c7d3d/79f0f736afc37931426019c4ecc4b74542a911d6.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/e2rldhuf.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=443112"mon="s=7a73a0b75d12cb71e8892191c317a112&element=443112&position=3&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【国贸】朝阳剧场</h4></div><p>电影票1张，提供免费停车位，节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>21</span><span class="ori-price">价值<span class="price-line">&yen;<span>60</span></span></span></div><div class="footer clearfix"><span class="comment">4.0分</span><span class="sold">已售10779</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/000oxf58g.html"target="_blank"class=""data-topten="k=icon_1&v=30353330"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=30353330&position=4&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>大钟寺</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=30cd78e89545d688a357baa093f2512c/00e93901213fb80e88dcd00c31d12f2eb83894d8.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/000oxf58g.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=30353330"mon="s=7a73a0b75d12cb71e8892191c317a112&element=30353330&position=4&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【大钟寺】新华国际影城</h4></div><p>单人影票1张！仅限当日使用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>36</span><span class="ori-price">价值<span class="price-line">&yen;<span>110</span></span></span></div><div class="footer clearfix"><span class="comment">5.0分</span><span class="sold">已售357</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/urxtip5n.html"target="_blank"class=""data-topten="k=icon_1&v=742137"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=742137&position=5&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>亚运村 鸟巢 大屯 小营</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=cebde6b80bf3d7ca0ca33772c52f923b/72f082025aafa40f1d646f5bac64034f79f01991.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/urxtip5n.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=742137"mon="s=7a73a0b75d12cb71e8892191c317a112&element=742137&position=5&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【亚运村】阳光影城</h4></div><p>单人影票（含3D）！节假日通用！无需预约！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>28</span><span class="ori-price">价值<span class="price-line">&yen;<span>100</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售41032</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/amartxfm.html"target="_blank"class=""data-topten="k=icon_1&v=10079359"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=10079359&position=6&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>昌平镇</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=70338b3585025aafd36776cfccdd8756/5fdf8db1cb134954a8032591514e9258d1094a22.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/amartxfm.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=10079359"mon="s=7a73a0b75d12cb71e8892191c317a112&element=10079359&position=6&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【昌平镇】昌平保利影剧院</h4></div><p>单人影票（含3D）！节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>27</span><span class="ori-price">价值<span class="price-line">&yen;<span>120</span></span></span></div><div class="footer clearfix"><span class="comment">4.0分</span><span class="sold">已售900</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/uwxrqbkf.html"target="_blank"class=""data-topten="k=icon_1&v=11187020"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=11187020&position=7&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>望京</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=4ee4bcc90e24ab18e043e93302cacaff/a6efce1b9d16fdfab3d39f01b38f8c5495ee7ba5.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/uwxrqbkf.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=11187020"mon="s=7a73a0b75d12cb71e8892191c317a112&element=11187020&position=7&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【望京】保利影城</h4></div><p>DMC望京国际店单人影票（含3D)！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>27</span><span class="ori-price">价值<span class="price-line">&yen;<span>100</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售549</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/zf2xj6eq.html"target="_blank"class=""data-topten="k=icon_1&v=3328654"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3328654&position=8&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>五道口 中关村 苏州桥</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=6e61078cf4deb48ffb3ca9dac72f161b/730e0cf3d7ca7bcb99dd5ac2b9096b63f724a8bd.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/zf2xj6eq.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3328654"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3328654&position=8&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【五道口】海淀剧院</h4></div><p>单人电影票（含3D）！节假日通用，店内提供免费无线WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>31</span><span class="ori-price">价值<span class="price-line">&yen;<span>80</span></span></span></div><div class="footer clearfix"><span class="comment">4.3分</span><span class="sold">已售5138</span><div class="bottom-border"></div></div></div></a></li></ul><a class="check-all" href="//bj.nuomi.com/10345" mon="element=bottom_link" target="_blank">查看全部团购<span class="all-cate-arrow2"></span></a></div><div class="floor-content" id="section-floor-3" mon="area=floor_content_320" bn_box="floor_320&position"><div class="floor-header clearfix" ><span id="title-floor-3"><i class="iconfont iconfont-320"></i></span><h3>娱乐</h3><ul class="reco-words"><li><a href="//bj.nuomi.com/341" target="_blank" mon="element=KTV&position=0">KTV</a></li><li><a href="//bj.nuomi.com/338" target="_blank" mon="element=温泉洗浴&position=1">温泉洗浴</a></li><li><a href="//bj.nuomi.com/347" target="_blank" mon="element=足疗按摩&position=2">足疗按摩</a></li><li><a href="//bj.nuomi.com/349" target="_blank" mon="element=文化艺术&position=3">文化艺术</a></li><li><a class="no-right-border no-right-padding" mon="element=top_link" href="//bj.nuomi.com/320" target="_blank">全部<span class="all-cate-arrow"></span></a></li></ul></div><ul class="itemlist clearfix two-row-height"><li class="row-first-item  narow-first-item  clear-first j-card"><a href="//www.nuomi.com/deal/ob30yeqf.html"target="_blank"class=""data-topten="k=icon_1&v=11900508"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=11900508&position=1&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>首都机场</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D22%2C0%2C778%2C471%3Bw%3D470%3Bq%3D90/sign=7bf34c463edbb6fd3114bf6634169934/b219ebc4b74543a9a80f027119178a82b9011472.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/ob30yeqf.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=11900508"mon="s=7a73a0b75d12cb71e8892191c317a112&element=11900508&position=1&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【首都机场】蟹岛会展中心游乐园</h4></div><p>蟹岛嘉年华日场套票1张！游乐项目15选12！节假日通用，提供免费停车位！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>80</span><span class="ori-price">价值<span class="price-line">&yen;<span>780</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售2336</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/wqbmtzl3.html"target="_blank"class=""data-topten="k=icon_1&v=10222504"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=10222504&position=2&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>平谷</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D470%3Bq%3D79/sign=081ebcb5978fa0ec6b883e4d1ba775de/94cad1c8a786c91715f02cbfcf3d70cf3ac75740.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/wqbmtzl3.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=10222504"mon="s=7a73a0b75d12cb71e8892191c317a112&element=10222504&position=2&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【平谷】天云山</h4></div><p>天云山玻璃栈道套票！节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>68</span><span class="ori-price">价值<span class="price-line">&yen;<span>78</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售10380</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/qdyllejt.html"target="_blank"class=""data-topten="k=icon_1&v=10947935"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=10947935&position=3&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>北京欢乐谷</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C32%2C550%2C334%3Bw%3D470%3Bq%3D90/sign=6bb30a05cbbf6c81e37876a8810e9d06/ac6eddc451da81cbceea6da05566d0160924314b.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/qdyllejt.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=10947935"mon="s=7a73a0b75d12cb71e8892191c317a112&element=10947935&position=3&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【北京欢乐谷】北京欢乐谷</h4></div><p>单人门票！节假日通用，提前1天预约！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>245</span><span class="ori-price">价值<span class="price-line">&yen;<span>260</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售7303</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/f00lzs0yc.html"target="_blank"class=""data-topten="k=icon_1&v=30199072"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=30199072&position=4&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>亚运村 鸟巢</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C20%2C660%2C400%3Bw%3D470%3Bq%3D80/sign=4678c7fa8001a18be4a4480fa31f2b3a/bf096b63f6246b60c19ff3a2ecf81a4c500fa257.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/f00lzs0yc.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=30199072"mon="s=7a73a0b75d12cb71e8892191c317a112&element=30199072&position=4&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【亚运村】水立方嬉水乐园</h4></div><p>日场成人票！节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>168</span><span class="ori-price">价值<span class="price-line">&yen;<span>200</span></span></span></div><div class="footer clearfix"><span class="comment">4.6分</span><span class="sold">已售759</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/uieuu3hq.html"target="_blank"class=""data-topten="k=icon_1&v=7344711"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=7344711&position=5&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>通州区 宋庄商圈</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C24%2C800%2C484%3Bw%3D720%3Bq%3D80/sign=d4ebf1c951fbb2fb20640252727a0c96/d439b6003af33a876455f98ec25c10385343b56e.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/uieuu3hq.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=7344711"mon="s=7a73a0b75d12cb71e8892191c317a112&element=7344711&position=5&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【通州区】运河苑温泉度假村</h4></div><p>单人假日票！节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>158</span><span class="ori-price">价值<span class="price-line">&yen;<span>198</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售12615</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/d00p0d5ur.html"target="_blank"class=""data-topten="k=icon_1&v=30489590"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=30489590&position=6&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>五道口 双榆树 中关村 方庄 远大路 北太平庄 苏州桥 上地 望京 亚运村 顺义 十里堡 管庄 八角 苹果园 平谷 崇文门…</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D470%3Bq%3D79/sign=66df409b44a98226ac8e7167b7b29531/e4dde71190ef76c62af439c59a16fdfaaf51673e.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/d00p0d5ur.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=30489590"mon="s=7a73a0b75d12cb71e8892191c317a112&element=30489590&position=6&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【21店通用】麦颂量贩式KTV</h4></div><p>下午场欢唱券1张！免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>40</span><span class="ori-price">价值<span class="price-line">&yen;<span>200</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售1705</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/764bzvdp.html"target="_blank"class=""data-topten="k=icon_1&v=3686517"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3686517&position=7&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>五道口</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C19%2C600%2C363%3Bw%3D470%3Bq%3D79/sign=c92bef8e2d381f308a56d7e994316039/d6ca7bcb0a46f21fe90d83e5f3246b600c33ae4f.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/764bzvdp.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3686517"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3686517&position=7&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【五道口】欢乐汇量贩式KTV</h4></div><p>欢唱6选1！节假日通用！提供免费WiFi、停车位！请提前3小时预约！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>39</span><span class="ori-price">价值<span class="price-line">&yen;<span>264</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售22416</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/rkrhuvjb.html"target="_blank"class=""data-topten="k=icon_1&v=11543953"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=11543953&position=8&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>三元桥 太阳宫</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D50%2C50%2C2263%2C1372%3Bw%3D470%3Bq%3D90/sign=07d1044616dfa9ece9610c575fe5c72f/1b4c510fd9f9d72a955b7647d32a2834349bbba9.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/rkrhuvjb.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=11543953"mon="s=7a73a0b75d12cb71e8892191c317a112&element=11543953&position=8&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【三元桥】比如世界</h4></div><p>周末档套票！提供免费WiFi、停车位！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>260</span><span class="ori-price">价值<span class="price-line">&yen;<span>380</span></span></span></div><div class="footer clearfix"><span class="comment">4.8分</span><span class="sold">已售784</span><div class="bottom-border"></div></div></div></a></li></ul><a class="check-all" href="//bj.nuomi.com/320" mon="element=bottom_link" target="_blank">查看全部团购<span class="all-cate-arrow2"></span></a></div><div class="floor-content" id="section-floor-5" mon="area=floor_content_316" bn_box="floor_316&position"><div class="floor-header clearfix" ><span id="title-floor-5"><i class="iconfont iconfont-316"></i></span><h3>生活</h3><ul class="reco-words"><li><a href="//bj.nuomi.com/956" target="_blank" mon="element=丽人&position=0">丽人</a></li><li><a href="//bj.nuomi.com/703" target="_blank" mon="element=配镜&position=1">配镜</a></li><li><a href="//bj.nuomi.com/930" target="_blank" mon="element=鲜花&position=2">鲜花</a></li><li><a href="//bj.nuomi.com/319" target="_blank" mon="element=快照冲印&position=3">快照冲印</a></li><li><a class="no-right-border no-right-padding" mon="element=top_link" href="//bj.nuomi.com/316" target="_blank">全部<span class="all-cate-arrow"></span></a></li></ul></div><ul class="itemlist clearfix two-row-height"><li class="row-first-item  narow-first-item  clear-first j-card"><a href="//www.nuomi.com/deal/3rxvgxpe.html"target="_blank"class=""data-topten="k=icon_1&v=3086163"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3086163&position=1&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>方庄 刘家窑</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=59542205acd3fd1f365caa3e077e092d/c75c10385343fbf269ce1708b47eca8065388f3f.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/3rxvgxpe.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3086163"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3086163&position=1&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【2店通用】红颜古典摄影</h4></div><p>【推荐】古典摄影！免费WiFi，节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>299</span><span class="ori-price">价值<span class="price-line">&yen;<span>2988</span></span></span></div><div class="footer clearfix"><span class="comment">5.0分</span><span class="sold">已售2864</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/8vzzxibw.html"target="_blank"class=""data-topten="k=icon_1&v=3084472"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3084472&position=2&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>三元桥 五道口 酒仙桥 朝外大街 中关村 西直门 国贸 北太平庄 广渠门 望京 亚运村 大望路 十里堡 天通苑 太阳宫 鸟巢…</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=8274ff820e7b02080c9c37e555e9dee1/d53f8794a4c27d1e3e69ece31fd5ad6eddc4384e.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/8vzzxibw.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3084472"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3084472&position=2&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【16店通用】欢乐口腔</h4></div><p>洗牙套餐！请提前3天预约，节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>136</span><span class="ori-price">价值<span class="price-line">&yen;<span>740</span></span></span></div><div class="footer clearfix"><span class="comment">4.8分</span><span class="sold">已售3242</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/1ttigqmz.html"target="_blank"class=""data-topten="k=icon_1&v=2245808"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=2245808&position=3&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>十里堡 四惠</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C64%2C790%2C478%3Bw%3D720%3Bq%3D79/sign=7b620297748da9775a60dc6b8d61d42f/a8ec8a13632762d0c6f1651ba7ec08fa503dc643.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/1ttigqmz.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=2245808"mon="s=7a73a0b75d12cb71e8892191c317a112&element=2245808&position=3&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【十里堡】欧尚精致婚纱摄影</h4></div><p>个性写真套餐！潮流团队，用胶片为梦想印刻记录，用影像讲述属于自己的故事！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>299</span><span class="ori-price">价值<span class="price-line">&yen;<span>2998</span></span></span></div><div class="footer clearfix"><span class="comment">4.8分</span><span class="sold">已售3429</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/3ieralge.html"target="_blank"class=""data-topten="k=icon_1&v=4159213"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=4159213&position=4&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>对外经贸 亚运村 小营</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C8%2C573%2C347%3Bw%3D470%3Bq%3D80/sign=4ba4fbd7f103918fc39e678a6c0d0aaf/bba1cd11728b4710919151fbc5cec3fdfc03234e.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/3ieralge.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=4159213"mon="s=7a73a0b75d12cb71e8892191c317a112&element=4159213&position=4&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【对外经贸】小鬼当家儿童身影</h4></div><p>儿童写真套餐！节假日通用，请至少提前3天预约！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>398</span><span class="ori-price">价值<span class="price-line">&yen;<span>3980</span></span></span></div><div class="footer clearfix"><span class="comment">4.9分</span><span class="sold">已售842</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/ahuslrkx.html"target="_blank"class=""data-topten="k=icon_1&v=11265335"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=11265335&position=5&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>望京</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C15%2C470%2C285%3Bw%3D470%3Bq%3D80/sign=82e2e55ac8fc1e17e9f0d67177a0da32/63d0f703918fa0ecc9b13641219759ee3d6ddb0c.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/ahuslrkx.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=11265335"mon="s=7a73a0b75d12cb71e8892191c317a112&element=11265335&position=5&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【望京】六久视觉</h4></div><p>望京店个人写真！节假日通用！提前2天预约！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>399</span><span class="ori-price">价值<span class="price-line">&yen;<span>3688</span></span></span></div><div class="footer clearfix"><span class="comment">5.0分</span><span class="sold">已售158</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/wc7fkswt.html"target="_blank"class=""data-topten="k=icon_1&v=11350594"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=11350594&position=6&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>方庄</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C6%2C640%2C388%3Bw%3D470%3Bq%3D80/sign=80e3d8eb0d7b0208188665a15fe9dee5/241f95cad1c8a78627f2ba406009c93d71cf50a0.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/wc7fkswt.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=11350594"mon="s=7a73a0b75d12cb71e8892191c317a112&element=11350594&position=6&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【方庄】绝色影像馆</h4></div><p>个人古装写真套系！节假日通用，提前7天预约，提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>299</span><span class="ori-price">价值<span class="price-line">&yen;<span>2999</span></span></span></div><div class="footer clearfix"><span class="comment">5.0分</span><span class="sold">已售75</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/5ijd5s7o.html"target="_blank"class=""data-topten="k=icon_1&v=2298250"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=2298250&position=7&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>管庄 黄村 新华大街 八角 苹果园 清河 通州区 公益西桥 通州北苑 常营</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C1%2C775%2C469%3Bw%3D720%3Bq%3D99/sign=0b7d125d494a20a425516687ad62b413/c2cec3fdfc0392459ee3ab408194a4c27d1e252e.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/5ijd5s7o.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=2298250"mon="s=7a73a0b75d12cb71e8892191c317a112&element=2298250&position=7&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【6店通用】都市爱婴儿童摄影</h4></div><p>儿童摄影1份！专业儿童摄影，一流的摄影团队，为宝宝留下每个精彩瞬间！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>298</span><span class="ori-price">价值<span class="price-line">&yen;<span>3898</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售821</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/yxgj5gj7.html"target="_blank"class=""data-topten="k=icon_1&v=6227221"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=6227221&position=8&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>三元桥 魏公村 北下关 五道口 酒仙桥 中关村 东单 左家庄 月坛 劲松 潘家园 苏州桥 双井 望京 三里屯 阜成门 亚运村…</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D20%2C0%2C587%2C356%3Bw%3D469%3Bq%3D80/sign=cf56507657da81cb5aa9d98d6f54e03a/4afbfbedab64034f1ac87a84a9c379310a551d2e.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/yxgj5gj7.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=6227221"mon="s=7a73a0b75d12cb71e8892191c317a112&element=6227221&position=8&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【25店通用】佳美口腔</h4></div><p>全套洗牙套餐！节假日通用，请提前1天预约，店内提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>258</span><span class="ori-price">价值<span class="price-line">&yen;<span>350</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售1113</span><div class="bottom-border"></div></div></div></a></li></ul><a class="check-all" href="//bj.nuomi.com/316" mon="element=bottom_link" target="_blank">查看全部团购<span class="all-cate-arrow2"></span></a></div><div class="floor-content" id="section-floor-6" mon="area=floor_content_642" bn_box="floor_642&position"><div class="floor-header clearfix" ><span id="title-floor-6"><i class="iconfont iconfont-642"></i></span><h3>酒店</h3><ul class="reco-words"><li><a href="//t.nuomi.com/bj" target="_blank" mon="element=北京&position=0">北京</a></li><li><a href="//t.nuomi.com/sh" target="_blank" mon="element=上海&position=1">上海</a></li><li><a href="//t.nuomi.com/gz" target="_blank" mon="element=广州&position=2">广州</a></li><li><a class="no-right-border no-right-padding" mon="element=top_link" href="//bj.nuomi.com/10642" target="_blank">全部<span class="all-cate-arrow"></span></a></li></ul></div><ul class="itemlist clearfix two-row-height"><li class="row-first-item  narow-first-item  clear-first j-card"><a href="//www.nuomi.com/deal/klhgx6ra.html"target="_blank"class=""data-topten="k=icon_1&v=8768881"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8768881&position=1&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>方庄</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D720%2C436/sign=bb979b4ed91373f0f56a6798963f67cf/d009b3de9c82d158a66b5a84880a19d8bc3e421d.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/klhgx6ra.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8768881"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8768881&position=1&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【方庄】速8酒店 北京方庄银马店  无窗特价房</h4></div><p>尊享速8酒店（北京方庄银马店）大床房/标准间1晚！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>158</span><span class="ori-price">价值<span class="price-line">&yen;<span>228</span></span></span></div><div class="footer clearfix"><span class="comment-disable">暂无评分</span><span class="sold">已售4057</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/oa4rtaq7.html"target="_blank"class=""data-topten="k=icon_1&v=3132246"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3132246&position=2&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>牛街</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D720%2C436/sign=ff239866043387449c90277b633ff5cd/1f178a82b9014a90ff04808ba1773912b31beeca.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/oa4rtaq7.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3132246"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3132246&position=2&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【牛街】北京大鲸鱼-特色青年酒店</h4></div><p>【广安门区域】北京大鲸鱼-特色青年酒店</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>78</span><span class="ori-price">价值<span class="price-line">&yen;<span>108</span></span></span></div><div class="footer clearfix"><span class="comment">5.0分</span><span class="sold">已售1642</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/ya0hsef2.html"target="_blank"class=""data-topten="k=icon_1&v=8597293"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8597293&position=3&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>西直门</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D720%2C436/sign=89944b7c0a087bf47db95feec0e37b18/38dbb6fd5266d0169d25ea1f9f2bd40735fa35cc.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/ya0hsef2.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8597293"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8597293&position=3&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【西直门】锦江之星北京动物园店</h4></div><p>【西直门商圈】锦江之星北京动物园店</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>69</span><span class="ori-price">价值<span class="price-line">&yen;<span>100</span></span></span></div><div class="footer clearfix"><span class="comment">5.0分</span><span class="sold">已售270</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/xugdgg5v.html"target="_blank"class=""data-topten="k=icon_1&v=7410912"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=7410912&position=4&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>崇文门</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D720%2C436/sign=698b284f59df8db1bc7b74633b13f160/023b5bb5c9ea15ce0338c9deb1003af33b87b216.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/xugdgg5v.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=7410912"mon="s=7a73a0b75d12cb71e8892191c317a112&element=7410912&position=4&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【崇文门】北京红苹果连锁酒店同仁医院北京站店</h4></div><p>【崇文门商圈】北京红苹果连锁酒店同仁医院北京站店</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>188</span><span class="ori-price">价值<span class="price-line">&yen;<span>268</span></span></span></div><div class="footer clearfix"><span class="comment">4.3分</span><span class="sold">已售1121</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/dc4ahork.html"target="_blank"class=""data-topten="k=icon_1&v=3997320"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3997320&position=5&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>三里屯</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D720%2C436/sign=791e89a504f431adbc874b3e7906809b/a8ec8a13632762d03caac888a8ec08fa513dc675.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/dc4ahork.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3997320"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3997320&position=5&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【三里屯】锦江之星品尚北京东直门使馆区酒店</h4></div><p>【东直门商圈】锦江之星品尚北京东直门使馆区酒店</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>99</span><span class="ori-price">价值<span class="price-line">&yen;<span>389</span></span></span></div><div class="footer clearfix"><span class="comment">4.9分</span><span class="sold">已售926</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/oygnyyfh.html"target="_blank"class=""data-topten="k=icon_1&v=8536635"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8536635&position=6&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>五道口 清河</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D720%2C436/sign=ea044c190d7b02080c9c37e650e9dee7/80cb39dbb6fd5266541458a8ac18972bd407364a.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/oygnyyfh.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8536635"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8536635&position=6&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【五道口】万商如一酒店 北京学院路店  特价标准间</h4></div><p>尊享万商如一酒店（北京学院路店）（原葡萄快捷酒店）特价标准间1晚！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>119</span><span class="ori-price">价值<span class="price-line">&yen;<span>189</span></span></span></div><div class="footer clearfix"><span class="comment-disable">暂无评分</span><span class="sold">已售424</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/cmzfvqop.html"target="_blank"class=""data-topten="k=icon_1&v=8529129"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8529129&position=7&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>木樨园</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D720%2C436/sign=ce39d9e5a364034f0f98ca019df35505/18d8bc3eb13533fa07498416a0d3fd1f41345b0e.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/cmzfvqop.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8529129"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8529129&position=7&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【木樨园】北京太空舱酒店 南站店  豪华间</h4></div><p>尊享太空舱酒店（南站店）豪华间1晚！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>79</span><span class="ori-price">价值<span class="price-line">&yen;<span>108</span></span></span></div><div class="footer clearfix"><span class="comment-disable">暂无评分</span><span class="sold">已售205</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/ye2z9uzi.html"target="_blank"class=""data-topten="k=icon_1&v=10200424"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=10200424&position=8&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>阜成门</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D720%2C436/sign=ad43417bee50352ab1342d0f6173d7c6/267f9e2f07082838888092d8bf99a9014d08f169.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/ye2z9uzi.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=10200424"mon="s=7a73a0b75d12cb71e8892191c317a112&element=10200424&position=8&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【阜成门】北京远通维景国际大酒店 维景高级双床间</h4></div><p>尊享北京远通维景国际大酒店维景高级双床间1晚＋免费WIFI＋更多优惠！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>558</span><span class="ori-price">价值<span class="price-line">&yen;<span>2737</span></span></span></div><div class="footer clearfix"><span class="comment">5.0分</span><span class="sold">已售951</span><div class="bottom-border"></div></div></div></a></li></ul><a class="check-all" href="//bj.nuomi.com/10642" mon="element=bottom_link" target="_blank">查看全部团购<span class="all-cate-arrow2"></span></a></div><div class="floor-content" id="section-floor-7" mon="area=floor_content_708" bn_box="floor_708&position"><div class="floor-header clearfix" ><span id="title-floor-7"><i class="iconfont iconfont-708"></i></span><h3>本地</h3><ul class="reco-words"><li><a href="//v.nuomi.com/1000338" target="_blank" mon="element=温泉洗浴&position=0">温泉洗浴</a></li><li><a href="//v.nuomi.com/1000700" target="_blank" mon="element=采摘&position=1">采摘</a></li><li><a class="no-right-border no-right-padding" mon="element=top_link" href="//v.nuomi.com" target="_blank">全部<span class="all-cate-arrow"></span></a></li></ul></div><ul class="itemlist clearfix two-row-height"><li class="row-first-item  narow-first-item  clear-first j-card"><a href="//www.nuomi.com/deal/hrnl2ooa.html"target="_blank"class=""data-topten="k=icon_1&v=3875359"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3875359&position=1&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>苹果园</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C53%2C737%2C446%3Bw%3D720%3Bq%3D99/sign=aa0eb807770e0cf3b4b814bb3776de2a/3bf33a87e950352afc00301d5643fbf2b2118b45.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/hrnl2ooa.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3875359"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3875359&position=1&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【苹果园】神农庄园酒店</h4></div><p>洗浴单人门票！节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>69</span><span class="ori-price">价值<span class="price-line">&yen;<span>224</span></span></span></div><div class="footer clearfix"><span class="comment">3.8分</span><span class="sold">已售2717</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/vow3fw3r.html"target="_blank"class=""data-topten="k=icon_1&v=4595426"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=4595426&position=2&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>广外大街</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C6%2C640%2C388%3Bw%3D470%3Bq%3D80/sign=3b9aa655652762d09471feff9ddc24cc/9e3df8dcd100baa15f675ecd4110b912c8fc2e78.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/vow3fw3r.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=4595426"mon="s=7a73a0b75d12cb71e8892191c317a112&element=4595426&position=2&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【广外大街】颐派欧华商务休闲汇馆</h4></div><p>广外店洗浴含餐票1张！节假日通用，提供免费WiFi、停车位！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>169</span><span class="ori-price">价值<span class="price-line">&yen;<span>199</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售1649</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/g6osytfp.html"target="_blank"class=""data-topten="k=icon_1&v=7344698"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=7344698&position=3&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>通州区 宋庄商圈</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C24%2C800%2C484%3Bw%3D720%3Bq%3D80/sign=d4ebf1c951fbb2fb20640252727a0c96/d439b6003af33a876455f98ec25c10385343b56e.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/g6osytfp.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=7344698"mon="s=7a73a0b75d12cb71e8892191c317a112&element=7344698&position=3&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【通州区】运河苑温泉度假村</h4></div><p>温泉平日票！可叠加使用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>145</span><span class="ori-price">价值<span class="price-line">&yen;<span>198</span></span></span></div><div class="footer clearfix"><span class="comment">4.4分</span><span class="sold">已售5274</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/w50vhnv8.html"target="_blank"class=""data-topten="k=icon_1&v=6139370"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=6139370&position=4&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>平谷</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D470%3Bq%3D79/sign=931c264c848ba61ecba1926f7c04bb3a/21a4462309f79052ba0b67b80af3d7ca7bcbd51b.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/w50vhnv8.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=6139370"mon="s=7a73a0b75d12cb71e8892191c317a112&element=6139370&position=4&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【平谷】蓝帕小镇</h4></div><p>单次门票！节假日通用！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>78</span><span class="ori-price">价值<span class="price-line">&yen;<span>88</span></span></span></div><div class="footer clearfix"><span class="comment">4.2分</span><span class="sold">已售220</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/l00mfdwbg.html"target="_blank"class=""data-topten="k=icon_1&v=30230997"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=30230997&position=5&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>北下关</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C12%2C800%2C484%3Bw%3D720%3Bq%3D79/sign=3d6771f19413b07ea9f20a4831e7bd12/cf1b9d16fdfaaf51354b776f8b5494eef11f7ab2.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/l00mfdwbg.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=30230997"mon="s=7a73a0b75d12cb71e8892191c317a112&element=30230997&position=5&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【北下关】北京海洋馆</h4></div><p>成人旺季票+纯K1小时欢唱券1份！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>165</span><span class="ori-price">价值<span class="price-line">&yen;<span>203</span></span></span></div><div class="footer clearfix"><span class="comment">4.1分</span><span class="sold">已售548</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/msxdncib.html"target="_blank"class=""data-topten="k=icon_1&v=6056336"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=6056336&position=6&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>房山 云岗</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/wh%3D470%2C285/sign=829de85129f5e0feee4d81056b50189a/bf096b63f6246b607eb1553ceff81a4c510fa23f.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/msxdncib.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=6056336"mon="s=7a73a0b75d12cb71e8892191c317a112&element=6056336&position=6&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【房山】南宫温泉水世界</h4></div><p>单人门票！节假日通用！免费提供储物柜、洗浴用品！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>145</span><span class="ori-price">价值<span class="price-line">&yen;<span>198</span></span></span></div><div class="footer clearfix"><span class="comment">4.8分</span><span class="sold">已售905</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/ujx24i0q.html"target="_blank"class=""data-topten="k=icon_1&v=10746581"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=10746581&position=7&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>太阳宫</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C6%2C640%2C388%3Bw%3D470%3Bq%3D79/sign=787da7faedc4b74520dbed56f2cc3221/e61190ef76c6a7efbc3389f5fbfaaf51f2de66cf.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/ujx24i0q.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=10746581"mon="s=7a73a0b75d12cb71e8892191c317a112&element=10746581&position=7&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【太阳宫】北京顺景温泉酒店</h4></div><p>平日含餐不含鱼疗票！提供免费停车位！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>205</span><span class="ori-price">价值<span class="price-line">&yen;<span>266</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售602</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/bx61pomw.html"target="_blank"class=""data-topten="k=icon_1&v=12570516"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=12570516&position=8&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+<li class="marketing-label marketing-free-appoint">免预约</li>
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>顺义</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C35%2C800%2C484%3Bw%3D720%3Bq%3D79/sign=640601c8efc4b74520dbed56f2cc3224/0b7b02087bf40ad10c8a4002532c11dfa8eccee1.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/bx61pomw.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=12570516"mon="s=7a73a0b75d12cb71e8892191c317a112&element=12570516&position=8&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【顺义】彩虹庄园</h4></div><p>樱桃采摘票！节假日通用！当日购买，次日生效！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>80</span><span class="ori-price">价值<span class="price-line">&yen;<span>100</span></span></span></div><div class="footer clearfix"><span class="comment">4.9分</span><span class="sold">已售968</span><div class="bottom-border"></div></div></div></a></li></ul><a class="check-all" href="//v.nuomi.com" mon="element=bottom_link" target="_blank">查看全部团购<span class="all-cate-arrow2"></span></a></div><div class="floor-content" id="section-floor-8" mon="area=floor_content_10955" bn_box="floor_10955&position"><div class="floor-header clearfix" ><span id="title-floor-8"><i class="iconfont iconfont-10955"></i></span><h3>丽人</h3><ul class="reco-words"><li><a href="//bj.nuomi.com/646" target="_blank" mon="element=美发&position=0">美发</a></li><li><a href="//bj.nuomi.com/707" target="_blank" mon="element=美容SPA&position=1">美容SPA</a></li><li><a href="//bj.nuomi.com/556" target="_blank" mon="element=美甲&position=2">美甲</a></li><li><a href="//bj.nuomi.com/925" target="_blank" mon="element=化妆&position=3">化妆</a></li><li><a class="no-right-border no-right-padding" mon="element=top_link" href="//bj.nuomi.com/10955" target="_blank">全部<span class="all-cate-arrow"></span></a></li></ul></div><ul class="itemlist clearfix two-row-height"><li class="row-first-item  narow-first-item  clear-first j-card"><a href="//www.nuomi.com/deal/hvt4ovng.html"target="_blank"class=""data-topten="k=icon_1&v=12633362"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=12633362&position=1&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>安贞 五道口 和平里 方庄 西直门 六里桥 北太平庄 虎坊桥 劲松 双井 沙子口 上地 亚运村 昌平镇 航天桥 五棵松 十里堡…</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C58%2C800%2C484%3Bw%3D720%3Bq%3D80/sign=7d34aa900bd79123f4afce34900475b7/91ef76c6a7efce1b2aa23252a851f3deb58f6599.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/hvt4ovng.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=12633362"mon="s=7a73a0b75d12cb71e8892191c317a112&element=12633362&position=1&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【50店通用】怡瑞造型</h4></div><p>单人剪发1次，男女不限，长短发不限，需预约！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>28.8</span><span class="ori-price">价值<span class="price-line">&yen;<span>58</span></span></span></div><div class="footer clearfix"><span class="comment">4.9分</span><span class="sold">已售718</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/7lkxcyry.html"target="_blank"class=""data-topten="k=icon_1&v=2733341"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=2733341&position=2&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>青塔</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C34%2C720%2C436%3Bw%3D720%3Bq%3D80/sign=c9afeec5ad18972bb7755a8adbfd57ba/b8014a90f603738db0cedef3b51bb051f919ec5f.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/7lkxcyry.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=2733341"mon="s=7a73a0b75d12cb71e8892191c317a112&element=2733341&position=2&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【青塔】索已造型</h4></div><p>【推荐】首席剪发1次！专业技师，为你打造专属发型，让你在人群中格外闪耀！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>29.9</span><span class="ori-price">价值<span class="price-line">&yen;<span>68</span></span></span></div><div class="footer clearfix"><span class="comment">4.8分</span><span class="sold">已售723</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/nta5sfs2.html"target="_blank"class=""data-topten="k=icon_1&v=946119"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=946119&position=3&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>安贞 和平里 劲松 潘家园 三里屯 洋桥 牛街 马家堡 大红门</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C6%2C690%2C418%3Bw%3D470%3Bq%3D80/sign=e27f0051cefcc3cea08f9373af75fabe/11385343fbf2b211367c093dcc8065380cd78e77.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/nta5sfs2.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=946119"mon="s=7a73a0b75d12cb71e8892191c317a112&element=946119&position=3&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【7店通用】鸿喜族养生会所</h4></div><p>芳香油压按摩SPA1次！释放轻松心情，加倍宠爱自己，让美丽从内而外！赠送免费小吃</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>259</span><span class="ori-price">价值<span class="price-line">&yen;<span>399</span></span></span></div><div class="footer clearfix"><span class="comment">4.5分</span><span class="sold">已售495</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/g1oohzff.html"target="_blank"class=""data-topten="k=icon_1&v=5958345"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=5958345&position=4&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>魏公村 北太平庄 广渠门 劲松 苏州桥 阜成门 德外大街 紫竹桥 鲁谷 蓝色港湾 青年路</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C1%2C650%2C394%3Bw%3D470%3Bq%3D80/sign=261ccd4072c6a7efad69f266c0ca8360/6f061d950a7b0208baf9577e66d9f2d3572cc879.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/g1oohzff.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=5958345"mon="s=7a73a0b75d12cb71e8892191c317a112&element=5958345&position=4&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【8店通用】秀悦造型</h4></div><p>【推荐】技术总监洗剪吹！提供免费WiFi， 请至少提前24小时预约！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>18.8</span><span class="ori-price">价值<span class="price-line">&yen;<span>88</span></span></span></div><div class="footer clearfix"><span class="comment">4.0分</span><span class="sold">已售581</span><div class="bottom-border"></div></div></div></a></li><li class="row-first-item   j-card"><a href="//www.nuomi.com/deal/l7qtehkm.html"target="_blank"class=""data-topten="k=icon_1&v=2832717"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=2832717&position=5&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>东直门 双井 亚运村 大屯 小营</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D470%3Bq%3D80/sign=6b2552b130d3d539d572558307b7c560/ac4bd11373f08202f860e3704dfbfbedaa641b8a.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/l7qtehkm.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=2832717"mon="s=7a73a0b75d12cb71e8892191c317a112&element=2832717&position=5&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【3店通用】艾莱雅士</h4></div><p>【推荐】按摩套餐！节假日通用，免费WiFi，消费前提前2小时预约！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>298</span><span class="ori-price">价值<span class="price-line">&yen;<span>3980</span></span></span></div><div class="footer clearfix"><span class="comment">4.9分</span><span class="sold">已售543</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/zjfqwmbr.html"target="_blank"class=""data-topten="k=icon_1&v=3634315"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=3634315&position=6&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>魏公村 五道口 北太平庄 苏州桥 回龙观 延庆县 鲁谷 石佛营 姚家园 生命科学园</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C53%2C779%2C472%3Bw%3D470%3Bq%3D90/sign=61405e2e0c23dd54353cfd28ec399feb/d000baa1cd11728bed43ae68cdfcc3cec3fd2c09.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/zjfqwmbr.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=3634315"mon="s=7a73a0b75d12cb71e8892191c317a112&element=3634315&position=6&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【6店通用】吉泽</h4></div><p>【推荐】美发套餐！请至少提前1小时预约，节假日通用，提供免费WiFi</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>19</span><span class="ori-price">价值<span class="price-line">&yen;<span>150</span></span></span></div><div class="footer clearfix"><span class="comment">4.9分</span><span class="sold">已售2435</span><div class="bottom-border"></div></div></div></a></li><li class="  narow-first-item  j-card"><a href="//www.nuomi.com/deal/b3lioci0.html"target="_blank"class=""data-topten="k=icon_1&v=898839"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=898839&position=7&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>双榆树 对外经贸 国贸 苏州桥 望京 亚运村 崇文门 梨园 通州区 青年路 马家堡 西红门 成寿寺 小营</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D470%3Bq%3D80/sign=3984b9a914dfa9ece9610c575fe0db33/c8177f3e6709c93dbb98d5429a3df8dcd1005419.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/b3lioci0.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=898839"mon="s=7a73a0b75d12cb71e8892191c317a112&element=898839&position=7&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【10店通用】美联社&美丽频道造型</h4></div><p>超值烫染套餐！专业发型师设计，打造属于你的个性形象！环境舒适，服务贴心！</p></a><div class="add-info"><span class="promo">新客减35元</span></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>98</span><span class="ori-price">价值<span class="price-line">&yen;<span>710</span></span></span></div><div class="footer clearfix"><span class="comment">4.7分</span><span class="sold">已售14310</span><div class="bottom-border"></div></div></div></a></li><li class="   j-card"><a href="//www.nuomi.com/deal/oq0kwgca.html"target="_blank"class=""data-topten="k=icon_1&v=8368764"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'mon="s=7a73a0b75d12cb71e8892191c317a112&element=8368764&position=8&element_type=item&page_index=1"><div class="imgbox">
+
+<ul class="marketing-label-container">
+</ul><div class="range-area"><div class="range-bg"></div><div class="range-inner"><span class="white-locate"></span>朝外大街 国贸 崇文门</div></div><div class="borderbox"><img data-original="http://e.hiphotos.baidu.com/bainuo/crop%3D0%2C21%2C700%2C424%3Bw%3D470%3Bq%3D80/sign=601c51cda7ec08fa324f49e764de115f/b7003af33a87e950a235061e17385343fbf2b4a6.jpg"></div></div></a><div class="contentbox"><a href="//www.nuomi.com/deal/oq0kwgca.html"target="_blank"data-item-st='{"s":"7a73a0b75d12cb71e8892191c317a112"}'class=""data-topten="k=icon_1&v=8368764"mon="s=7a73a0b75d12cb71e8892191c317a112&element=8368764&position=8&element_type=item&page_index=1"><div class="header clearfix"><h4 class="title ">【3店通用】瑞丽国际</h4></div><p>蓝钻痘肌护理套餐！节假日通用，请至少提前1天预约，提供免费WiFi！</p></a><div class="add-info"></div><div class="pinfo clearfix"><span class="price"><span class="moneyico">&yen;</span>8.8</span><span class="ori-price">价值<span class="price-line">&yen;<span>3980</span></span></span></div><div class="footer clearfix"><span class="comment">5.0分</span><span class="sold">已售341</span><div class="bottom-border"></div></div></div></a></li></ul><a class="check-all" href="//bj.nuomi.com/10955" mon="element=bottom_link" target="_blank">查看全部团购<span class="all-cate-arrow2"></span></a></div></div>
+<div class="bottom-category" id="c-bottom"></div></div></div>
+<div class="w-top-search-box"><div class="top-search-bg" id="j-top-search-bg"></div><div id="j-top-search-content" class="top-search-content"><div class="search-container"><i class="iconfont top-search-logo">&#xe650;</i><div class="top-search" id="j-top-search"><div class="search-area clearfix"><div data-ui-id="top-searcher" class="form-wrap clearfix"><form method="get" action="//www.nuomi.com/search" id="j-top-searchForm" ><input type="text" id="j-topSearchInput" class="searchinput" name="k" value="" data-placeholder="" placeholder="搜索商家或地点" autocomplete="off" mon="element=search_input"/><div class="searchbtn-wrap"><input type="submit" class="searchbtn" id="j-topSearchBtn" value="" mon="element=search_button"/><i class="iconfont">&#xe639;</i></div><input type="hidden" id="j-top-input-hidden" name="rid" value="9869ad0ec3eb0def3d5f32e9d1a0b67f"></form></div><ul class="reco-list"><li><a href="//bj.nuomi.com/search?k=%E5%A5%BD%E4%BC%A6%E5%93%A5&rid=5fcda8e4f44a353984b7d439ee7160f9" mon="element=hot_query&position=0">好伦哥</a></li><li><a href="//bj.nuomi.com/search?k=%E5%BF%85%E8%83%9C%E5%AE%A2&rid=5fcda8e4f44a353984b7d439ee7160f9" mon="element=hot_query&position=1">必胜客</a></li><li><a href="//bj.nuomi.com/search?k=%E8%81%9A%E4%BC%98%E6%83%A0&rid=5fcda8e4f44a353984b7d439ee7160f9" mon="element=hot_query&position=2">聚优惠</a></li></ul></div></div></div></div></div>
+<script type="text/template" id="sub-bottom">
+    <div class="bottom-cate">
+        <ul class="tab-nav clearfix">
+            <!-- for: ${data} as ${item}, ${index}  -->
+                <!-- if: ${item.enName} != '' -->
+                    <li mon="area=bottom_tab_${item.enName}" >
+                        <a href="javascript:;" class="<!-- if: ${index} ===0 -->active<!--/if-->"  mon="element=${item.enName}&position=${index}">${item.chName}</a>
+                    </li>
+            <!--/if-->
+            <!-- /for -->
+        </ul>
+        <!-- for: ${data} as ${item}, ${index}  -->
+                <!-- if: ${item.enName} != '' -->
+                <div class="bottom-content" style="<!--if: ${index} != 0-->display:none;<!--/if-->" mon="area=bottom_link">
+                    <ul>
+                        <!-- for: ${item.list} as ${link}, ${k}  -->
+
+                            <li mon="area=bottom_link_${item.enName}" >
+                                <a href="${link.url}" target="_blank" mon="element=${item.enName}_${link.id}&position=${k}">${link.name}</a>
+                            </li>
+                        <!-- /for -->
+                    </ul>
+                </div>
+            <!--/if-->
+        <!-- /for -->
+    </div>
+</script><script type="text/html" id="tplHotMall">
+        <%for(var i = 0, len = list.length; i < len; i++){ %>
+        <%var item = list[i]%>
+        <a class="hot-mall-detail" href="<%-item.targetUrl%>" target="_blank" mon="page=new_index&area=hardWide&element=marketAds&position=1">
+            <img class="mall-pic" src="<%-item.imageUrl%>"/>
+        </a>
+        <% }%>
+    </script>
+<script type="text/html" id="tplJingxuan">
+    <%var pos = 0%>
+    <%for(var it in list){ %>
+    <%var item = list[it]%>
+    <%++pos; %>
+
+	<%if (pos ==1){ %>
+	<li  class="no-left-margin">
+	<% }else{ %>
+	<li>
+	<%}%>
+		<a href="http://t10.nuomi.com/pc/t10/index?tid=t10_bj_pc" target="_blank" mon="s=<%=s%>&element=<%=item.deal_id%>&position=<%=pos%>&element_type=item&s=<%=s%>"  data-item-st="<%=st%>">
+			<div class="imgbox">
+				<div class="borderbox">
+					<img src="<%=item.image%>"/>
+				</div>
+			</div>
+			<div class="header clearfix">
+				<h4 class="title"><%=item.brand%></h4>
+			</div>
+			<div class="pinfo clearfix">
+	                <span class="price">
+                    <%if (item.marketing_price != ''){ %>
+						<span class="moneyico">¥</span><%=item.marketing_price/100%>
+                    <%}else{ %>
+                        <span class="moneyico">¥</span><%=item.tuan_price/100%>
+                    <%}%>
+					</span>
+
+				<span class="ori-price right-pos">
+					<span class="price-line">¥<span><%=item.raw_price/100%></span></span>
+				</span>
+			</div>
+		</a>
+	</li>
+	<%} %>
+	</script>
+<script type="text/html" id="tplT10logo">
+        <%if (imageNum == 20) { %>
+            <div class="t10-logo-wall clearfix">
+                <div class="left-img">
+                    <img src="//gss0.bdstatic.com/8r1VfDn7KggZnd_b8IqT0jB-xx1xbK/static/list/img/t10logo_left_81e0b43.png" />
+                </div>
+                <div class="logo-list clearfix">
+                    <a href="http://t10.nuomi.com/pc/t10/index?tid=t10_bj_pc" class="t10-logo" target="_blank" mon="element=link">
+                        <%for(var it in list){ %>
+                        <%var item = list[it] %>
+                        <div class="logo-item">
+							<div class="logo-border">
+								<img src="<%=item.na_logo%>">
+							</div>
+						</div>
+                        <%} %>
+                    </a>
+                </div>
+            </div>
+        <% } else { %>
+            <div class="top-collect-logos clearfix" id="j-jxContainer" bn_box="topten&position">
+                        <a href="http://t10.nuomi.com/pc/t10/index?tid=t10_bj_pc" target="_blank" mon="element=link">
+            <img src="http:\/\/a.hiphotos.baidu.com\/lbs\/pic\/item\/dc54564e9258d10913219c28d458ccbf6d814d6d.jpg" alt="">
+            <div class="top-logo-mask"></div>
+            </a>
+                        </div>
+        <%} %>
+	</script>
+<script type="text/html" id="tplRecentViewed">
+ 		<div id="j-recentviewed-ceilingbar" class="recent-viewed-box">
+	 		<div class="title">
+	    		您最近查看的团单
+	    		<a href="javascript:void(0);" class="clear j-recentViewed-clear">清空</a>
+	    	</div>
+	    	<div class="itembox" mon="area=recentViewed&s=<%=s%>&element_type=item" bn_box="recentViewed" alog-alias="bainuo-list-recentViewed" alog-group="bainuo-list-recentViewed">
+	    		<%for(var i = 0, len = list.length; i < len; i++){ %>
+		    		<%var item = list[i]%>
+		        	<a href="<%=item.link%>" class="item clearfix" data-item-st="<%=s%>" mon="element=<%=item.id%>&position=<%=i+1%>">
+		        		<img src="<%=item.tiny_image%>" alt="" />
+		        		<div class="cont">
+		        			<div class="t"><%=item.min_title%></div>
+		        			<div class="price-box"><span class="font-color">&yen;<%=item.current_price/100%></span><span class="old-price">&yen;<%=item.market_price/100%></span></div>
+		        		</div>
+		        	</a>
+		        <% }%>
+	    	</div>
+    	</div>
+ 	</script>
+<script type="text/html" id="tplHotRank">
+		<div class="title">热门排行榜</div>
+		<div mon="area=itemHot&s=<%=s%>&element_type=item" bn_box="itemHot&position" alog-alias="bainuo-list-hotRank" alog-group="bainuo-list-hotRank">
+
+		<%for(var i = 0, len = list.length; i < len; i++){ %>
+			<%var item = list[i]%>
+
+			<a class="w-good-item-tiny" href="<%=item.link%>" target="_blank" mon="element=<%=item.id%>&position=<%=i+1%>" data-item-st="<%=s%>">
+		        <img class="good-tiny-img" src="<%-item.image%>" alt="<%=item.title%>"/>
+		        <span class="good-content-tiny">
+		            <span class="good-tiny-title"><%=item.title%></span>
+		            <span class="sale-count">每天<span class="sale-num"><%=item.bought_weeekly%></span>人团购</span>
+		            <ins class="current-pric">¥<%=item.current_price / 100%></ins>
+		            <del class="original-pric" style="display:none">¥<%=item.market_price/ 100%></del>
+		        </span>
+		        <span class="good-item-rank"><em class="rank-num"><%=i+1%></em></span>
+		    </a>
+	    <% }%>
+		</div>
+	</script>
+<script type="text/html" id="tplRightAd">
+
+		<ul class="slidepic" id='j-rightAdContainer' mon="area=adsright" bn_box="adsright&position">
+			<%for(var i = 0, len = list.length; i < len; i++){ %>
+				<%var item = list[i]%>
+				<li>
+				<a href="<%-item.link%>" mon="element=adver_<%=item.id%>&position=<%=i+1%>">
+				<img src="<%-item.image%>"/>
+				</a>
+				</li>
+			<% }%>
+		</ul>
+		<% if (list.length != 1) { %>
+		<div class="slidenum" id="j-ad-pointers">
+			<%for(var i = 0, len = list.length; i < len; i++){ %>
+				<a href="javascript:;">1</a>
+			<% }%>
+		</div>
+		<% }%>
+	</script>
+<script type="text/html" id="tplHotTopic">
+
+		<h2>热门专题</h2>
+		<ul class="hotlist" mon="area=topic&element_type=nav" bn_box="topic&position" alog-alias="bainuo-list-hotTopic" alog-group="bainuo-list-hotTopic">
+			<%for(var i = 0, len = list.length; i < len; i++){ %>
+			<%var item = list[i]%>
+			<li>
+				<a href="<%-item.url%><%if(item.link_type == 1){ %>?topicid=<%-item.id%><% }%>"
+				mon="element=adver_<%=item.id%>&position=<%=i+1%>"
+				class="clearfix">
+					<div class="left-content">
+						<h3><%=item.title%></h3>
+						<p><%=item.description%></p>
+						<%if(item.bought){ %>
+
+						<span class="sold-info">已售<%=item.bought%></span>
+						<% }%>
+
+					</div>
+					<div class="right-pic">
+						<img src="<%-item.img%>"/>
+					</div>
+				</a>
+			</li>
+			<% }%>
+		</ul>
+
+	</script>
+<script type="text/html" id="tplHotRange">
+		<div class="title">热门商圈</div>
+		<ul class="mid-list no-bottom-border">
+			<%for(var i = 0, len = list.length; i < len; i++){ %>
+				<%var item = list[i]%>
+				<li><a href="<%-item.link%>" class="link <%if(item.red){ %>hot<% }%>"
+                   mon="position=<%=i%>&element=<%=item.biz_name%>"><%=item.biz_name%></a></li>
+			<% }%>
+		</ul>
+	</script>
+
+<div id="hover-overlay" class="hover-overlay"></div>
+
+
+<div class="footer-content">
+<div id="footer" class="footer">
+<div class="footer-inner clearfix flexible">
+<div class="footer-size">
+<h3>用户帮助</h3>
+<ul>
+<li><a href="//www.nuomi.com/help" >常见团购问题</a></li>
+<li><a href="//www.nuomi.com/help/api" >开放API</a></li>
+</ul>
+</div>
+<div class="footer-size-2">
+<h3>手机百度助手</h3>
+<ul>
+<li><a href="https://m.nuomi.com"  target="_blank">百度糯米触屏版</a></li>
+<li><a href="http://d.nuomi.com/inter/group?from=WebRootWord"  target="_blank">下载手机版</a></li>
+</ul>
+</div>
+<div class="footer-size-2">
+<h3>商务合作</h3>
+<ul>
+<li><a href="//www.nuomi.com/links">友情链接</a></li>
+<li><a href="http://cooperation.nuomi.com/clue/index">市场合作</a></li>
+</ul>
+</div>
+<div class="footer-size-2">
+<h3>公司信息</h3>
+<ul>
+<li><a href="//www.nuomi.com/about">关于百度糯米</a></li>
+<li><a href="http://weibo.com/nuomiwang" target="_blank">百度糯米新浪微博</a></li>
+<li><a href="javascript:;"  id="j-tttel">违规投诉&amp;廉政举报</a></li>
+</ul>
+</div>
+<div class="footer-size-3">
+<h3>4006-888-887</h3>
+<ul>
+<li>周一至周日&nbsp;9:00-22:00</li>
+<li>客服电话&nbsp;免长途费</li>
+</ul>
+<a href="http://d.nuomi.com/inter/group?from=WebRootWord" class="mobile-btn">手机专享优惠</a>
+</div>
+</div>
+</div>
+<div id="copyright-info">
+<div class="site-info">
+<span class="copyright">&copy;</span>2016&nbsp;nuomi.com            &nbsp;<a href="http://www.miitbeian.gov.cn" class="link" target="_blank">京ICP证030173号</a>
+&nbsp;京公网安备11010802014106号            &nbsp;<a href="https://ss0.baidu.com/5eN1ciub_Q63otebn9fN2DJv/vone/img/certificate.jpg" class="link" target="_blank">互联网药品信息服务资格证编号（京-经营性-2011-0009）</a>
+&nbsp;<a href="/pcindex/main/about/openinfo">营业执照信息</a>
+</div>
+<div class="icons">
+<span class="ico-qianbao">百度钱包</span>
+<span class="ico-zhifubao">支付宝-特约商家</span>
+<span class="ico-kexin">可信网站 身份验证</span>
+<span class="ico-web-trust">网站认证 Web Trust</span>
+</div>
+</div>
+</div>
+
+
+
+<script>
+    // pc和mobile端会稍有不同，必须严格按照该文档来部署，该段代码必须放在上面的window.alogObjectConfig配置之后
+    void function(a,b,c,d,e,f){
+        function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}
+        function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}
+        function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}
+        function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}
+        if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;if("https:"===a.location.protocol){if(d="https://gss2.bdstatic.com/70cFsjip0QIZ8tyhnq"+d,!k||!l)return}else d="http://img.baidu.com"+d;k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+
+<script>
+        var monkeyPageId = "bainuo-list-page-index";
+    </script>
+
+
+<script type="text/javascript">
+			<!--
+			(function (d) {
+			(window.bd_cpro_rtid = window.bd_cpro_rtid || []).push({id:"nH0znjDv"});
+			var s = d.createElement("script");s.type = "text/javascript";s.async = true;s.src = location.protocol + "//cpro.baidu.com/cpro/ui/rt.js";
+			var s0 = d.getElementsByTagName("script")[0];s0.parentNode.insertBefore(s, s0);
+			})(document);
+			//-->
+		</script>
+
+
+<script>
+			alog("set", "alias", {
+	     		monkey: "//gss2.bdstatic.com/70cFsjip0QIZ8tyhnq/hunter/alog/monkey.min.js",
+	     		element: "//gss2.bdstatic.com/70cFsjip0QIZ8tyhnq/hunter/alog/element.min.js"
+	 		});
+
+	 		alog("require", ["monkey", "element"], function(monkey, element){
+	     		monkey.create({
+	         		page: monkeyPageId, //填写页面的Monkey pageId，与创建实验时填写的页面pageId一致
+	         		pid: "241", //固定的不用改，Monkey日志的pid
+	         		p: "241", //log平台为每个产品线分的id，如果没有设为241
+	         		hid: "2189", //Monkey实验的ID，Hunter系统实验管理页列表的第一列
+	         		postUrl: "https://sp1.baidu.com/8qUJcD3n0sgCo2Kml5_Y_D3/u.gif",//固定值，上报统计的请求地址
+	         		reports: {
+	            	refer: 1, //统计页面来源
+	            	staytime: 1 //统计用户在该页面的停留时间
+	         	}
+	     	});
+	 		});
+
+			 //发送PV统计请求
+	 		alog("monkey.send", "pageview", { now: +new Date });
+		</script>
+
+
+<script>(function () {try {if (!(!('performance' in window) || !('getEntriesByType' in window.performance) || !(window.performance.getEntriesByType('resource') instanceof Array))) {var LOG_REQUEST_URL = window.location.host.indexOf('m.nuomi.com') !== -1 ? '//m.nuomi.com/s.gif?' : '//www.nuomi.com/s.gif?';window.addEventListener('load', function () {setTimeout(function () {try {var events = ['navigationStart','redirectStart','redirectEnd','fetchStart','domainLookupStart','domainLookupEnd','connectStart','connectEnd','secureConnectionStart','requestStart','responseStart','responseEnd','domLoading','domInteractive','domContentLoadedEventStart','domContentLoadedEventEnd','domComplete','loadEventStart','loadEventEnd'];var timing = window.performance.timing;var zero = timing.navigationStart;var mon = document.body.getAttribute('mon') || 'page=unknown';var query = ['performance=1', 'zero=' + zero, mon];for (var i = 0; i < events.length; i++) {var event = events[i];var eventTime = timing[event];if (typeof eventTime !== 'undefined') {var delta = eventTime - zero;query.push(event + '=' + (delta < 0 ? 0 : delta));}}var img = document.createElement('img');img.style.display = 'none';document.body.appendChild(img).src = LOG_REQUEST_URL + query.join('&');}catch (err) {}}, 100);});}}catch (err) {}})();</script>
+
+<script src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1.10.2_d88366fd.js"></script>
+
+</body><script type="text/javascript" src="//gss0.bdstatic.com/8r1VfDn9KggZnd_b8IqT0jB-xx1xbK/static/common/lib/mod_e56bbba.js"></script>
+<script type="text/javascript" src="//gss0.bdstatic.com/8r1VfDn9KggZnd_b8IqT0jB-xx1xbK/static/common/pkg/common_f05b54e.js"></script>
+<script type="text/javascript" src="//gss0.bdstatic.com/8r1VfDn-KggZnd_b8IqT0jB-xx1xbK/static/list/pkg/list_2adb4a5.js"></script>
+<script type="text/javascript" src="//gss0.bdstatic.com/8r1VfDn-KggZnd_b8IqT0jB-xx1xbK/static/list/nis_index/index_b49e85f.js"></script>
+<script type="text/javascript">!function(){require.async(['common:widget/static/init.js'], function(init){});}();
+!function(){			$(function(){
+				alog && alog('speed.set', 'drt',+new Date);
+			});
+	}();
+!function(){    F.context('staticController').run(function (data, tools) {
+        //   
+            });
+}();
+!function(){    require.async(['common:widget/new_gotop/SideNav.js'],function (SideNav){
+        var sideNav = new SideNav({
+            main:'#j-go-top',
+            triggerl:'.go-top-2'
+        });
+    });
+}();
+!function(){	require.async(['common:widget/header/top-banner/top-banner.js']);
+}();
+!function(){        F.context('staticController').run(function () {
+            require.async(['common:widget/new_header/bar/bar.js']);
+            require.async(['common:widget/new_header/bar/dropdown.js'], function (Dropdown) {
+                var nav = new Dropdown({
+                    container:'#header-bar',
+                    containerClass:'j-bar-dropdown'
+                });
+            });
+        });
+    }();
+!function(){F.context('staticController').run(function () {require.async(['common:widget/new_header/nav/nav.js'], function (Nav) {var nav = new Nav({selectedClass: 'selected',container:'#j-catg',navContainerClass:'all-cate',navClass:'j-catg-row'});});});}();
+!function(){        F.context({
+            isHotCity: '1', // 
+            isIndex: '1', // 
+            erweimaCurrentTime: new Date(1465608050 * 1000)
+        });
+        F.context('staticController').run(function () {
+            require.async(['common:widget/iot_header/header.js']);
+        });
+    }();
+!function(){
+function getS($tar){
+    var param = $tar.data('item-st');
+    var s = '';
+    if(param){
+        if(typeof param == 'string'){
+            s = param;
+
+        }else if($.isPlainObject(param)){
+            s = param.s;
+        }
+    }
+    return s;
+}
+
+$(function(){
+    $(".buyNow-word").on("mouseover",function(e){
+        $(this).next().show();
+
+    }).on("mouseout",function(e){
+        $(this).next().hide();
+
+    }).on("click",function(e){
+        var dataSt = getS($(this).parents('.w-good-item'));
+        var dataUrl = $(this).data('url');
+        var url = dataUrl + '?s=' + encodeURIComponent(dataSt);
+        window.open(url);
+        e.preventDefault();
+        e.stopPropagation();
+    });
+});
+
+}();
+!function(){      require.async(['list:widget/new_list/item.js', 'common:widget/good_item/toptenCtag.js'],function(item,ctag){
+        item.init({
+            element:'.itemlist .j-card,.itemlist2 .j-card'
+        });
+        ctag.bind({
+            container:document,
+            selector:'.j-topten'
+        });
+      });
+
+
+  }();
+!function(){require.async('common:widget/top_search_box/top_search_box.js', function(topSearch){
+    topSearch.init();
+});
+}();
+!function(){		F.context({
+			"isHotCity" : "1",
+			"isSACity" : "1",
+			"paramSuffix" : "",
+			"needItemAjax" : "",
+			"ajaxViewCount" : ""
+		});
+	}();
+!function(){    require.async(['common:widget/ui/dialog/dialog.js'], function(Dialog){
+    $('#j-tttel').on('click', function(){
+    Dialog.confirm({
+    width : 560,
+    customClassName : "ui-confirm-lz",
+    content : '<p>业务违规举报邮箱接受对团购业务违规方面的投诉和建议:<br />举报地址：<a target="_blank" href="http://jubao.baidu.com/jubao/nuomi/" class="link">http://jubao.baidu.com/jubao/nuomi/</a><br />投诉电话：13269403604 <br/></p><p>廉政邮箱接受对百度糯米员工廉政违法行为、职业操守问题的举报及建议:<br/>举报邮箱：<a href="mailto:bdjb@baidu.com" class="link">bdjb@baidu.com</a><br />举报电话：010-56797369</p><p>以上邮箱和电话不接受用户咨询及商务合作。</p>',
+    footer : ['<a href="javascript:;" class="dialog-btn-cancel j-dialog-btn" data-event="cancel">关闭</a>'].join('')
+    });
+    });
+    });
+}();
+!function(){F.context('staticController').run(function (data, tools) {
+    var isStatic = this.isStatic;
+
+	$.ajaxSetup({
+		cache : false
+	});
+
+	//2014_10_11 zhangyijun02: 因增加广告轮播曝光日志逻辑，调整showtrack初始化方式
+	require.async(['common:widget/ui/usertrack/usertrack.js', 'common:widget/ui/sidlog/pclog.js', 'common:widget/ui/lazyload/lazyload.js', 'common:widget/ui/cookie/cookie.js', 'common:widget/ui/showtrack/showtrack.js', 'common:widget/ui/items_post/items_post.js'], function(usertrack, pclog, LazyLoad, Cookie, ShowTrack, itemsPost){
+		// 初始化点击监听
+		usertrack.init();
+
+		new LazyLoad({
+			lazy : $('img[data-original]'),
+			expect: 250
+		});
+
+		itemsPost.init();
+
+        var sendPv = (function (smartyData) {
+            return function () {
+                var logInfoExt = isStatic
+                    ? data && data.logInfoExt
+                    : smartyData.dynamicData.logInfoExt;
+                logInfoExt = logInfoExt && Object.prototype.toString.call(logInfoExt) !== '[object Array]'
+                    ? logInfoExt
+                    : {};
+                logInfoExt.page = smartyData.staticData.page;
+                pclog.sendPv(logInfoExt);
+
+                usertrack.send({
+                    da_src: encodeURIComponent($.stringify({
+                        page: smartyData.staticData.page
+                    })),
+                    element_type: 'pv'
+                });
+            }
+        })(
+            // 
+            {"staticData":{"page":"index_new"},"dynamicData":{"logInfoExt":{"search_key":"[{\"s\":\"7a73a0b75d12cb71e8892191c317a112\",\"s_name\":\"floor_search\"}]"}}}
+        );
+
+		function handleBaiduid(){
+            // 
+			var getBaiduidUrl = '//nuomipassport.baidu.com/getbdid';
+			var retryCount = 1;
+			getBaiduid();
+
+			function getBaiduid(){
+				$.ajax(getBaiduidUrl, {
+					dataType : 'jsonp',
+					success : function(json){
+						if(json.errno == 0){
+							var baiduid = json.data.baiduid;
+							if(baiduid){
+								Cookie.setRaw('BAIDUID', baiduid, 365);
+							}
+							// 不管有没有baiduid，都发送pv
+							sendPv();
+						}else{
+							if(retryCount--){
+								getBaiduid();
+							}else{
+								// 最后一次也获取失败
+								sendPv();
+							}
+						}
+					}
+				});
+			}
+		}
+
+        handleBaiduid();
+
+		//2014_10_11 zhangyijun02: 因增加广告轮播曝光日志逻辑，调整ShowTrack初始化方式
+		//曝光日志统计
+		ShowTrack.startShowTrack();
+	});
+
+});}();
+!function(){        require.async("common:widget/ui/httpslink/httpslink.js", function (httpslink) {
+            httpslink.init();
+        });
+    }();
+!function(){        require.async('common:widget/util/request_check.js',
+            function (reqCheck) {
+                reqCheck.init(F.context('da_page'));
+            }
+        );
+    }();</script></html>
+<!--12507781680788123658061109-->
+<script> var _trace_page_logid = 1250778168; </script><!--12504486100843894794061109-->
+<script> var _trace_page_logid = 1250448610; </script>

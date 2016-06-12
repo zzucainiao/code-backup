@@ -20,3 +20,16 @@ a = [ [] for i in range(1, 10)]
 print(a)
 a[0].append(0)
 print(a)
+
+#girls:
+#0 allice
+#1 berend
+#2 clarice
+#3 amen
+#boys:
+#0 chris
+#1 arnold
+#2 bob
+#[('chris', 'clarice'), ('arnold', 'allice'), ('arnold', 'amen'), ('bob', 'berend')]
+#[[], [], [], [], [], [], [], [], []]
+#[[0], [], [], [], [], [], [], [], []]

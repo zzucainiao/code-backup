@@ -36,3 +36,17 @@ print(a)
 name = "wangbing"
 greeting = "hello"
 print("%s %s" % (greeting, name))
+
+#{'num': [1, 'heh', 3, 6], 'name': 'wangbing'}
+#{'num': [1, 'heh', 3, 6], 'name': 'wangbing'}
+#{'num': [1, 'all change', 3, 6], 'name': 'change only'}
+#{'num': [1, 'all change', 3, 6], 'name': 'wangbing'}
+#{'wang': 'default', 'bing': 'default'}
+#get not add key different with cpp
+#{}
+#None
+#{'wangbing': 'None'}
+#{'wangbing': 'hehe'}
+#hehe
+#{'wangbing': 'hehe'}
+#hello wangbing

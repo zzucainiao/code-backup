@@ -18,3 +18,10 @@ print(a.members)
 print(b.members)
 print(bird.members)
 print(a.__class__)
+
+#hehe
+#abcd
+#2
+#3
+#2
+#<class '__main__.bird'>
