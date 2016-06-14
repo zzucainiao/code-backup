@@ -1,0 +1,9 @@
+[numbers]
+
+pi: 3.14150265
+
+[messages]
+
+greeting: welcome to the area calucation program
+question: please enter the radius:
+result_message: the area is
