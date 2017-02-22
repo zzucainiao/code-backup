@@ -4,7 +4,7 @@
 #include <cstdio>
 #include <cstring>
 #define INF 0x3fffffff
-#define maxn 11000
+#define maxn 110000
 using namespace std;
 
 struct Edge {

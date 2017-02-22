@@ -4,7 +4,7 @@
 #include <cstdio>
 #include <cstring>
 #define INF 0x3fffffff
-#define maxn 11000
+#define maxn 110000
 using namespace std;
 
 struct Edge {
@@ -111,7 +111,7 @@ struct FORD {
             }
         }
         if(a[t] == 0) return false;
-        printf("%d\n", a[t]);
+        //printf("%d\n", a[t]);
         flow += a[t];
         int u = t;
         while(u != s) {
