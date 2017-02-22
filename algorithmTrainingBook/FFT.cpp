@@ -123,6 +123,8 @@ int main() {
     }
     cout<<"----------After DFT-1----------"<<endl;
     a = IterativeFFT(a, 8, -1);
+    // 把a，b当作两个高次多项式的系数，FFT得到结果就是两个多项式相乘后对于多项式的系数。
+    // 所以其可以用来计算高精度乘法。。卷积也类似 只是b数组需要翻转
     for(int i = 0; i < 8; i++)
         printf("%.9f + %.9fi\n",a[i].real, a[i].image);
     delete a;
